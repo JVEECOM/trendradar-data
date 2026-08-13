@@ -1,0 +1,203 @@
+{
+ "date": "2026-08-13",
+ "run": {
+  "slot": "handmatig",
+  "chosen_slot": "00:00",
+  "weight": "light",
+  "forced": true
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 379
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 1210
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 40,
+   "duration_ms": 265
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 22,
+   "duration_ms": 1245
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 7877
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 60,
+   "duration_ms": 3298
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 60,
+   "duration_ms": 2069
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (draait om de dag)",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "wikipedia_top": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 40,
+   "duration_ms": 130
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 22,
+   "duration_ms": 14653
+  },
+  "gdelt": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": null,
+   "items": 22,
+   "duration_ms": 983942
+  },
+  "google_trends_series": {
+   "ok": false,
+   "error": "Google Trends gaf geen bruikbare reeksen (waarschijnlijk geblokkeerd)",
+   "skipped_reason": null,
+   "items": 4,
+   "duration_ms": 20677
+  },
+  "tiktok_creative_center": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (5 van 7 dagen, wisselend patroon)",
+   "items": 0,
+   "duration_ms": 0
+  }
+ },
+ "source_errors": {
+  "wikipedia_series": [
+   {
+    "term": "ai moderation takes down 10k ccu game",
+    "error": "geen passend Wikipedia-artikel gevonden"
+   },
+   {
+    "term": "fighting the ender dragon final minecraft hardcore all bosses day 6 ft kaicenat part 2",
+    "error": "geen passend Wikipedia-artikel gevonden"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "roblox",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22roblox%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "miles morales trend",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22miles+morales+trend%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "call of duty black ops 7",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22call+of+duty+black+ops+7%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "my mcdonalds order",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22my+mcdonalds+order%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "celtics schedule",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22celtics+schedule%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "pooh shiesty k carbon new one official video",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22pooh+shiesty+k+carbon+new+one+official+video%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "total war warhammer iii lords of the end times cinematic trailer",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22total+war+warhammer+iii+lords+of+the+end+times+cinematic+trailer%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "fighting the ender dragon final minecraft hardcore all bosses day 6 ft kaicenat part 2",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22fighting+the+ender+dragon+final+minecraft+hardcore+all+bosses+day+6+ft+kaicenat+part+2%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "blue clockwork headphones",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22blue+clockwork+headphones%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "google_trends_series": [
+   {
+    "batch": [
+     "roblox",
+     "grand theft auto vi",
+     "miles morales trend",
+     "call of duty black ops 7",
+     "murder mystery 2"
+    ],
+    "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'"
+   },
+   {
+    "batch": [
+     "rainbow fun fedora",
+     "ai moderation takes down 10k ccu game",
+     "haymaker valley",
+     "shelbourne vs ajax",
+     "spider man brand new day"
+    ],
+    "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'"
+   },
+   {
+    "batch": [
+     "brookhaven rp",
+     "subarctic commando",
+     "my mcdonalds order",
+     "celtics schedule",
+     "pooh shiesty k carbon new one official video"
+    ],
+    "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'"
+   },
+   {
+    "batch": [
+     "red sox blue jays",
+     "total war warhammer iii lords of the end times cinematic trailer",
+     "roblox s ai moderation deleted 11 years of work",
+     "lucy davis",
+     "fighting the ender dragon final minecraft hardcore all bosses day 6 ft kaicenat part 2"
+    ],
+    "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'"
+   }
+  ]
+ },
+ "watchlist_size": 31,
+ "history_terms": 22
+}
