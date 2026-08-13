@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-08-13T18:44:10Z",
+ "updated_at": "2026-08-13T19:38:27Z",
  "terms": [
   {
    "term": "roblox",
@@ -10,6 +10,7 @@
    "first_seen": "2026-08-12",
    "wikipedia_article": "Roblox",
    "score_history": [
+    7.1,
     7.1
    ],
    "notes": "Dient als ijkpunt: als deze reeks raar doet, klopt er iets niet aan de meting zelf.",
@@ -24,6 +25,7 @@
    "first_seen": "2026-08-12",
    "wikipedia_article": "Grand_Theft_Auto_VI",
    "score_history": [
+    15.1,
     15.1
    ],
    "notes": "Voorbeeld van een lange-termijn kans die je zelf noemde.",
@@ -36,8 +38,12 @@
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit kym_new"
+   "score_history": [
+    39.0
+   ],
+   "notes": "automatisch opgepikt uit kym_new",
+   "status_reason": "nog onder de drempel (nu 39)",
+   "last_score": 39.0
   },
   {
    "term": "call of duty black ops 7",
@@ -45,8 +51,12 @@
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
+   "score_history": [
+    15.8
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 16)",
+   "last_score": 15.8
   },
   {
    "term": "murder mystery 2",
@@ -54,8 +64,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_top_games"
+   "score_history": [
+    16.1
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 16)",
+   "last_score": 16.1
   },
   {
    "term": "rainbow fun fedora",
@@ -63,8 +77,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_catalog"
+   "score_history": [
+    4.1
+   ],
+   "notes": "automatisch opgepikt uit roblox_catalog",
+   "status_reason": "nog onder de drempel (nu 4)",
+   "last_score": 4.1
   },
   {
    "term": "ai moderation takes down 10k ccu game",
@@ -72,8 +90,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit devforum_topics"
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit devforum_topics",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "haymaker valley",
@@ -81,8 +103,12 @@
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit kym_new"
+   "score_history": [
+    4.3
+   ],
+   "notes": "automatisch opgepikt uit kym_new",
+   "status_reason": "nog onder de drempel (nu 4)",
+   "last_score": 4.3
   },
   {
    "term": "shelbourne vs ajax",
@@ -90,8 +116,12 @@
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
+   "score_history": [
+    5.1
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 5)",
+   "last_score": 5.1
   },
   {
    "term": "spider man brand new day",
@@ -99,8 +129,12 @@
    "track": "longterm",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit wikipedia_top"
+   "score_history": [
+    10.3
+   ],
+   "notes": "automatisch opgepikt uit wikipedia_top",
+   "status_reason": "nog onder de drempel (nu 10)",
+   "last_score": 10.3
   },
   {
    "term": "brookhaven rp",
@@ -108,12 +142,110 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_top_games"
+   "score_history": [
+    62.7
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 63)",
+   "last_score": 62.7
   },
   {
    "term": "subarctic commando",
    "label": "Subarctic Commando",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit roblox_catalog",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
+  },
+  {
+   "term": "my mcdonalds order",
+   "label": "My McDonalds Order",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit kym_new"
+  },
+  {
+   "term": "celtics schedule",
+   "label": "celtics schedule",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit google_trending"
+  },
+  {
+   "term": "pooh shiesty k carbon new one official video",
+   "label": "Pooh Shiesty & K Carbon - New One [Official Video]",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit youtube_trending"
+  },
+  {
+   "term": "red sox blue jays",
+   "label": "red sox - blue jays",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit google_trending"
+  },
+  {
+   "term": "total war warhammer iii lords of the end times cinematic trailer",
+   "label": "Total War: WARHAMMER III - Lords of The End Times - Cinematic trailer",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit youtube_trending"
+  },
+  {
+   "term": "roblox s ai moderation deleted 11 years of work",
+   "label": "Roblox's AI Moderation Deleted 11 Years of Work",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit devforum_topics"
+  },
+  {
+   "term": "lucy davis",
+   "label": "Lucy_Davis",
+   "track": "longterm",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit wikipedia_top"
+  },
+  {
+   "term": "fighting the ender dragon final minecraft hardcore all bosses day 6 ft kaicenat part 2",
+   "label": "FIGHTING THE ENDER DRAGON (FINAL) - MINECRAFT HARDCORE ALL BOSSES DAY 6🍄🔨🧟‍♂️ft. KaiCenat (Part 2)",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit youtube_trending"
+  },
+  {
+   "term": "grow a garden 2",
+   "label": "Grow a Garden 2",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games"
+  },
+  {
+   "term": "blue clockwork headphones",
+   "label": "Blue Clockwork Headphones",
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
