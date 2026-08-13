@@ -1,0 +1,135 @@
+{
+ "date": "2026-08-13",
+ "run": {
+  "slot": "handmatig",
+  "chosen_slot": "00:00",
+  "weight": "light",
+  "forced": true
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 363
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 752
+  },
+  "youtube_trending": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "YOUTUBE_API_KEY niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 2,
+   "duration_ms": 130
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 8713
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 31,
+   "duration_ms": 19889
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 60,
+   "duration_ms": 2256
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (draait om de dag)",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "wikipedia_top": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 40,
+   "duration_ms": 37
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 2,
+   "duration_ms": 1233
+  },
+  "gdelt": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": null,
+   "items": 2,
+   "duration_ms": 63790
+  },
+  "google_trends_series": {
+   "ok": false,
+   "error": "Google Trends gaf geen bruikbare reeksen (waarschijnlijk geblokkeerd)",
+   "skipped_reason": null,
+   "items": 1,
+   "duration_ms": 5462
+  },
+  "tiktok_creative_center": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (5 van 7 dagen, wisselend patroon)",
+   "items": 0,
+   "duration_ms": 0
+  }
+ },
+ "source_errors": {
+  "roblox_catalog": [
+   {
+    "kind": "variant_error",
+    "variant": "accessoires_meest_verkocht_week",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=11&SortType=2&SortAggregation=3&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "grand theft auto vi",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22grand+theft+auto+vi%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "google_trends_series": [
+   {
+    "batch": [
+     "roblox",
+     "grand theft auto vi"
+    ],
+    "error": "Retry.__init__() got an unexpected keyword argument 'method_whitelist'"
+   }
+  ]
+ },
+ "watchlist_size": 12,
+ "history_terms": 2
+}
