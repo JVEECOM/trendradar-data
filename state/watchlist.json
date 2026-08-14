@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-08-13T20:45:01Z",
+ "updated_at": "2026-08-14T11:30:42Z",
  "terms": [
   {
    "term": "grand theft auto vi",
@@ -12,11 +12,12 @@
    "score_history": [
     15.1,
     15.1,
-    15.1
+    15.1,
+    12.0
    ],
    "notes": "Voorbeeld van een lange-termijn kans die je zelf noemde.",
-   "status_reason": "nog onder de drempel (nu 15)",
-   "last_score": 15.1
+   "status_reason": "nog onder de drempel (nu 12)",
+   "last_score": 12.0
   },
   {
    "term": "miles morales trend",
@@ -26,11 +27,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     39.0,
-    39.0
+    39.0,
+    7.7
    ],
    "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 39)",
-   "last_score": 39.0
+   "status_reason": "nog onder de drempel (nu 8)",
+   "last_score": 7.7
   },
   {
    "term": "call of duty black ops 7",
@@ -40,11 +42,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     15.8,
-    15.8
+    15.8,
+    9.6
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 16)",
-   "last_score": 15.8
+   "status_reason": "nog onder de drempel (nu 10)",
+   "last_score": 9.6
   },
   {
    "term": "murder mystery 2",
@@ -54,11 +57,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     16.1,
-    16.1
+    16.1,
+    12.8
    ],
    "notes": "automatisch opgepikt uit roblox_top_games",
-   "status_reason": "nog onder de drempel (nu 16)",
-   "last_score": 16.1
+   "status_reason": "nog onder de drempel (nu 13)",
+   "last_score": 12.8
   },
   {
    "term": "rainbow fun fedora",
@@ -68,11 +72,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     4.1,
-    4.1
+    4.1,
+    14.4
    ],
    "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 4)",
-   "last_score": 4.1
+   "status_reason": "nog onder de drempel (nu 14)",
+   "last_score": 14.4
   },
   {
    "term": "ai moderation takes down 10k ccu game",
@@ -81,6 +86,7 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
+    0.0,
     0.0,
     0.0
    ],
@@ -96,11 +102,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     4.3,
-    4.3
+    4.3,
+    8.3
    ],
    "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 4)",
-   "last_score": 4.3
+   "status_reason": "nog onder de drempel (nu 8)",
+   "last_score": 8.3
   },
   {
    "term": "shelbourne vs ajax",
@@ -110,11 +117,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     5.1,
-    5.1
+    5.1,
+    20.7
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 5)",
-   "last_score": 5.1
+   "status_reason": "nog onder de drempel (nu 21)",
+   "last_score": 20.7
   },
   {
    "term": "spider man brand new day",
@@ -124,11 +132,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     10.3,
-    10.3
+    10.3,
+    7.5
    ],
    "notes": "automatisch opgepikt uit wikipedia_top",
-   "status_reason": "nog onder de drempel (nu 10)",
-   "last_score": 10.3
+   "status_reason": "nog onder de drempel (nu 8)",
+   "last_score": 7.5
   },
   {
    "term": "brookhaven rp",
@@ -138,11 +147,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     62.7,
-    62.7
+    62.7,
+    18.8
    ],
    "notes": "automatisch opgepikt uit roblox_top_games",
-   "status_reason": "nog onder de drempel (nu 63)",
-   "last_score": 62.7
+   "status_reason": "nog onder de drempel (nu 19)",
+   "last_score": 18.8
   },
   {
    "term": "subarctic commando",
@@ -152,11 +162,12 @@
    "first_seen": "2026-08-13",
    "score_history": [
     0.0,
-    14.0
+    14.0,
+    12.5
    ],
    "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 14)",
-   "last_score": 14.0
+   "status_reason": "nog onder de drempel (nu 12)",
+   "last_score": 12.5
   },
   {
    "term": "my mcdonalds order",
@@ -165,11 +176,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    7.6
+    7.6,
+    7.8
    ],
    "notes": "automatisch opgepikt uit kym_new",
    "status_reason": "nog onder de drempel (nu 8)",
-   "last_score": 7.6
+   "last_score": 7.8
   },
   {
    "term": "celtics schedule",
@@ -178,11 +190,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    12.3
+    12.3,
+    18.0
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 12)",
-   "last_score": 12.3
+   "status_reason": "nog onder de drempel (nu 18)",
+   "last_score": 18.0
   },
   {
    "term": "pooh shiesty k carbon new one official video",
@@ -191,11 +204,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    16.4
+    16.4,
+    0.0
    ],
    "notes": "automatisch opgepikt uit youtube_trending",
-   "status_reason": "nog onder de drempel (nu 16)",
-   "last_score": 16.4
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "red sox blue jays",
@@ -204,11 +218,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    8.3
+    8.3,
+    54.2
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 8)",
-   "last_score": 8.3
+   "status_reason": "nog onder de drempel (nu 54)",
+   "last_score": 54.2
   },
   {
    "term": "total war warhammer iii lords of the end times cinematic trailer",
@@ -217,11 +232,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    41.7
+    41.7,
+    6.6
    ],
    "notes": "automatisch opgepikt uit youtube_trending",
-   "status_reason": "nog onder de drempel (nu 42)",
-   "last_score": 41.7
+   "status_reason": "nog onder de drempel (nu 7)",
+   "last_score": 6.6
   },
   {
    "term": "roblox s ai moderation deleted 11 years of work",
@@ -230,11 +246,12 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    44.8
+    44.8,
+    16.4
    ],
    "notes": "automatisch opgepikt uit devforum_topics",
-   "status_reason": "nog onder de drempel (nu 45)",
-   "last_score": 44.8
+   "status_reason": "nog onder de drempel (nu 16)",
+   "last_score": 16.4
   },
   {
    "term": "lucy davis",
@@ -243,15 +260,162 @@
    "status": "misschien",
    "first_seen": "2026-08-13",
    "score_history": [
-    88.0
+    88.0,
+    57.4
    ],
    "notes": "automatisch opgepikt uit wikipedia_top",
-   "status_reason": "nog onder de drempel (nu 88)",
-   "last_score": 88.0
+   "status_reason": "nog onder de drempel (nu 57)",
+   "last_score": 57.4
   },
   {
    "term": "fighting the ender dragon final minecraft hardcore all bosses day 6 ft kaicenat part 2",
    "label": "FIGHTING THE ENDER DRAGON (FINAL) - MINECRAFT HARDCORE ALL BOSSES DAY 6🍄🔨🧟‍♂️ft. KaiCenat (Part 2)",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    0.0,
+    8.6
+   ],
+   "notes": "automatisch opgepikt uit youtube_trending",
+   "status_reason": "nog onder de drempel (nu 9)",
+   "last_score": 8.6
+  },
+  {
+   "term": "grow a garden 2",
+   "label": "Grow a Garden 2",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    5.0,
+    4.5
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 4)",
+   "last_score": 4.5
+  },
+  {
+   "term": "blue clockwork headphones",
+   "label": "Blue Clockwork Headphones",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    24.2,
+    22.8
+   ],
+   "notes": "automatisch opgepikt uit roblox_catalog",
+   "status_reason": "nog onder de drempel (nu 23)",
+   "last_score": 22.8
+  },
+  {
+   "term": "my mcdonald s order",
+   "label": "My McDonald's Order",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    46.3
+   ],
+   "notes": "automatisch opgepikt uit kym_new",
+   "status_reason": "nog onder de drempel (nu 46)",
+   "last_score": 46.3
+  },
+  {
+   "term": "amat stock price",
+   "label": "amat stock price",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    22.8
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 23)",
+   "last_score": 22.8
+  },
+  {
+   "term": "tigers standings",
+   "label": "tigers standings",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    11.7
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 12)",
+   "last_score": 11.7
+  },
+  {
+   "term": "fernando mendoza",
+   "label": "fernando mendoza",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    5.6
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 6)",
+   "last_score": 5.6
+  },
+  {
+   "term": "studio beta no code hotkey hints with inputactionlabel",
+   "label": "[Studio Beta] No-code Hotkey Hints With InputActionLabel",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit devforum_topics",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
+  },
+  {
+   "term": "metaxa",
+   "label": "Metaxa",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    6.5
+   ],
+   "notes": "automatisch opgepikt uit kym_new",
+   "status_reason": "nog onder de drempel (nu 6)",
+   "last_score": 6.5
+  },
+  {
+   "term": "flock safety platform privacy changes",
+   "label": "flock safety platform privacy changes",
+   "track": "hype",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    65.8
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 66)",
+   "last_score": 65.8
+  },
+  {
+   "term": "the odyssey 2026 film",
+   "label": "The_Odyssey_(2026_film)",
+   "track": "longterm",
+   "status": "misschien",
+   "first_seen": "2026-08-13",
+   "score_history": [
+    1.4
+   ],
+   "notes": "automatisch opgepikt uit wikipedia_top",
+   "status_reason": "nog onder de drempel (nu 1)",
+   "last_score": 1.4
+  },
+  {
+   "term": "la mas doll vaca muerta tiradera a la perversa video oficial",
+   "label": "La Mas Doll - Vaca Muerta ( Tiradera A La Perversa ) Video Oficial",
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-08-13",
@@ -263,120 +427,107 @@
    "last_score": 0.0
   },
   {
-   "term": "grow a garden 2",
-   "label": "Grow a Garden 2",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [
-    5.0
-   ],
-   "notes": "automatisch opgepikt uit roblox_top_games",
-   "status_reason": "nog onder de drempel (nu 5)",
-   "last_score": 5.0
-  },
-  {
-   "term": "blue clockwork headphones",
-   "label": "Blue Clockwork Headphones",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [
-    24.2
-   ],
-   "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 24)",
-   "last_score": 24.2
-  },
-  {
-   "term": "my mcdonald s order",
-   "label": "My McDonald's Order",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit kym_new"
-  },
-  {
-   "term": "amat stock price",
-   "label": "amat stock price",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
-  },
-  {
-   "term": "tigers standings",
-   "label": "tigers standings",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
-  },
-  {
-   "term": "fernando mendoza",
-   "label": "fernando mendoza",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
-  },
-  {
-   "term": "studio beta no code hotkey hints with inputactionlabel",
-   "label": "[Studio Beta] No-code Hotkey Hints With InputActionLabel",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit devforum_topics"
-  },
-  {
-   "term": "metaxa",
-   "label": "Metaxa",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit kym_new"
-  },
-  {
-   "term": "flock safety platform privacy changes",
-   "label": "flock safety platform privacy changes",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
-  },
-  {
-   "term": "the odyssey 2026 film",
-   "label": "The_Odyssey_(2026_film)",
-   "track": "longterm",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit wikipedia_top"
-  },
-  {
-   "term": "la mas doll vaca muerta tiradera a la perversa video oficial",
-   "label": "La Mas Doll - Vaca Muerta ( Tiradera A La Perversa ) Video Oficial",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-08-13",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit youtube_trending"
-  },
-  {
    "term": "blox fruits",
    "label": "⚔️ Blox Fruits",
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-08-13",
+   "score_history": [
+    18.8
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 19)",
+   "last_score": 18.8
+  },
+  {
+   "term": "99 nights in the forest",
+   "label": "[👔] 99 Nights in the Forest 🔦",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
    "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_top_games"
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "1 speed keyboard escape candy chocolate",
+   "label": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "rivals",
+   "label": "RIVALS",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "steal a brainrot",
+   "label": "[🐝] Steal a Brainrot",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "animal hospital anomaly",
+   "label": "Animal Hospital (Anomaly) 🧪",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "steal an egg",
+   "label": "Steal An Egg",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "piñata maze pet simulator 99",
+   "label": "🎉 [PIÑATA MAZE] Pet Simulator 99! 🔥",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "register jujutsu shenanigans",
+   "label": "[REGISTER] Jujutsu Shenanigans",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "upd fish it",
+   "label": "[🚀UPD] Fish It! 🐟",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "1 speed monkey escape",
+   "label": "🐒 +1 Speed Monkey Escape",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-08-14",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
   }
  ]
 }
