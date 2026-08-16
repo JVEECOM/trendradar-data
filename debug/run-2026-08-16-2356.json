@@ -1,0 +1,169 @@
+{
+ "date": "2026-08-16",
+ "run": {
+  "slot": "23:30",
+  "chosen_slot": "23:30",
+  "weight": "heavy",
+  "forced": false
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 36,
+   "duration_ms": 303
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 1041
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 150,
+   "duration_ms": 407
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 171143
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 12,
+   "duration_ms": 13428
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 32,
+   "duration_ms": 34739
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 90,
+   "duration_ms": 3179
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 400,
+   "duration_ms": 155
+  },
+  "wikipedia_top": {
+   "ok": false,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/2026/08/14",
+   "skipped_reason": null,
+   "items": 0,
+   "duration_ms": 98
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 12,
+   "duration_ms": 5237
+  },
+  "gdelt": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": null,
+   "items": 6,
+   "duration_ms": 182220
+  },
+  "google_trends_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 20,
+   "duration_ms": 34239
+  },
+  "tiktok_creative_center": {
+   "ok": false,
+   "error": "TikTok gaf geen bruikbare data",
+   "skipped_reason": null,
+   "items": 6,
+   "duration_ms": 52791
+  }
+ },
+ "source_errors": {
+  "urban_dictionary": [
+   {
+    "term": "brookhaven rp",
+    "error": "HTTPSConnectionPool(host='api.urbandictionary.com', port=443): Max retries exceeded with url: /v0/define?term=brookhaven+rp (Caused by ResponseError('too many 503 error responses'))"
+   }
+  ],
+  "roblox_catalog": [
+   {
+    "kind": "variant_error",
+    "variant": "alles_meest_favoriet_dag",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=1&SortType=1&SortAggregation=1&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "kind": "variant_error",
+    "variant": "accessoires_meest_verkocht_week",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=11&SortType=2&SortAggregation=3&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "wikipedia_series": [
+   {
+    "term": "lucy davis",
+    "article": "Lucy_Davis",
+    "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Lucy_Davis/daily/20260630/20260814"
+   },
+   {
+    "term": "dress to impress",
+    "article": "Dress_to_Impress",
+    "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Dress_to_Impress/daily/20260630/20260814"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "lucy davis",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22lucy+davis%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "tiktok_creative_center": [
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "US",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=7&page=1&limit=20&country_code=US"
+   },
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "GB",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=30&page=1&limit=20&country_code=GB"
+   },
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "NL",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=30&page=1&limit=30&country_code=NL"
+   }
+  ]
+ },
+ "watchlist_size": 60,
+ "history_terms": 71
+}
