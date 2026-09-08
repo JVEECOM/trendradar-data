@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "date": "2026-09-08",
- "started_at": "2026-09-08T21:02:00Z",
- "finished_at": "2026-09-08T21:12:01Z",
+ "started_at": "2026-09-08T21:43:37Z",
+ "finished_at": "2026-09-08T21:53:46Z",
  "run": {
-  "slot": "18:07",
+  "slot": "19:07",
   "chosen_slot": "19:07",
   "weight": "heavy",
   "forced": false
@@ -22,49 +22,49 @@
    "error": null,
    "skipped_reason": null,
    "items": 36,
-   "duration_ms": 482
+   "duration_ms": 3850
   },
   "google_trending_now": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 30,
-   "duration_ms": 706
+   "duration_ms": 1377
   },
   "youtube_trending": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 150,
-   "duration_ms": 297
+   "duration_ms": 479
   },
   "urban_dictionary": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 25,
-   "duration_ms": 2682
+   "duration_ms": 2260
   },
   "roblox_charts": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 12,
-   "duration_ms": 10671
+   "duration_ms": 13883
   },
   "roblox_catalog": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 32,
-   "duration_ms": 35889
+   "duration_ms": 36085
   },
   "roblox_devforum": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 90,
-   "duration_ms": 3854
+   "duration_ms": 5083
   },
   "rolimons_games": {
    "ok": true,
@@ -78,35 +78,35 @@
    "error": null,
    "skipped_reason": null,
    "items": 100,
-   "duration_ms": 162
+   "duration_ms": 143
   },
   "wikipedia_series": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 27,
-   "duration_ms": 13925
+   "items": 26,
+   "duration_ms": 12131
   },
   "gdelt": {
    "ok": false,
    "error": null,
    "skipped_reason": null,
    "items": 10,
-   "duration_ms": 439033
+   "duration_ms": 414800
   },
   "google_trends_series": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 16,
-   "duration_ms": 34774
+   "items": 20,
+   "duration_ms": 34479
   },
   "tiktok_creative_center": {
    "ok": false,
    "error": "TikTok gaf geen bruikbare data",
    "skipped_reason": null,
    "items": 6,
-   "duration_ms": 58054
+   "duration_ms": 84516
   }
  },
  "tracked": [
@@ -118,7 +118,7 @@
    "status_suggested": "afgevoerd",
    "status_reason": "ongewijzigd",
    "first_seen": "2026-08-12",
-   "score": 5.8,
+   "score": 4.4,
    "score_history": [
     31.6,
     13.9,
@@ -138,19 +138,20 @@
     18.4,
     19.5,
     9.0,
-    5.8
+    5.8,
+    4.4
    ],
-   "phase": "dalend",
-   "slope_3d": -4.2,
+   "phase": "stabiel",
+   "slope_3d": -5.03,
    "detail": {
-    "score": 5.8,
-    "z": -0.32,
+    "score": 4.4,
+    "z": -0.49,
     "z_per_source": {
      "wikipedia": -0.19,
-     "google_trends": -1.51,
+     "google_trends": -1.41,
      "urban_dictionary": 0.0,
-     "roblox_devforum": 0.18,
-     "youtube": -0.37,
+     "roblox_devforum": -1.45,
+     "youtube": -0.38,
      "roblox_catalog": 0.0,
      "rolimons": 0.03
     },
@@ -216,6 +217,7 @@
     34.2,
     34.2,
     34.2,
+    34.2,
     34.2
    ],
    "phase": "stabiel",
@@ -252,7 +254,7 @@
    "status_suggested": "bevestigd",
    "status_reason": "blijft staan (nu 33, piek 66)",
    "first_seen": "2026-08-20",
-   "score": 33.1,
+   "score": 32.8,
    "score_history": [
     2.3,
     8.4,
@@ -280,17 +282,18 @@
     60.2,
     59.5,
     43.8,
-    33.1
+    33.1,
+    32.8
    ],
    "phase": "dalend",
-   "slope_3d": -9.03,
+   "slope_3d": -8.9,
    "detail": {
-    "score": 33.1,
-    "z": 0.71,
+    "score": 32.8,
+    "z": 0.68,
     "z_per_source": {
      "wikipedia": 2.69,
-     "google_trends": -0.41,
-     "roblox_charts": 0.1,
+     "google_trends": -0.52,
+     "roblox_charts": 0.09,
      "rolimons": 0.63,
      "urban_dictionary": 0.0
     },
@@ -317,10 +320,10 @@
    "label": "⚔️ Blox Fruits",
    "track": "roblox",
    "status_before": "bevestigd",
-   "status_suggested": "bevestigd",
-   "status_reason": "blijft staan (nu 30, piek 91)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "ingestort naar 27 vanaf piek 91",
    "first_seen": "2026-08-28",
-   "score": 29.6,
+   "score": 27.1,
    "score_history": [
     34.9,
     34.3,
@@ -340,16 +343,17 @@
     67.2,
     68.7,
     31.8,
-    29.6
+    29.6,
+    27.1
    ],
-   "phase": "dalend",
-   "slope_3d": -12.53,
+   "phase": "stabiel",
+   "slope_3d": -13.87,
    "detail": {
-    "score": 29.6,
-    "z": 0.67,
+    "score": 27.1,
+    "z": 0.5,
     "z_per_source": {
      "google_trends": -0.11,
-     "roblox_charts": 0.65,
+     "roblox_charts": 0.12,
      "rolimons": 1.76,
      "urban_dictionary": 0.0
     },
@@ -358,7 +362,7 @@
     "rising_sources": [
      "rolimons"
     ],
-    "level": 0.632
+    "level": 0.519
    },
    "sources_present": [
     "google_trends",
@@ -376,9 +380,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 21)",
+   "status_reason": "nog onder de drempel (nu 22)",
    "first_seen": "2026-08-28",
-   "score": 21.4,
+   "score": 22.5,
    "score_history": [
     3.4,
     7.6,
@@ -398,17 +402,18 @@
     14.1,
     14.0,
     22.7,
-    21.4
+    21.4,
+    22.5
    ],
    "phase": "stabiel",
-   "slope_3d": 2.43,
+   "slope_3d": 2.83,
    "detail": {
-    "score": 21.4,
-    "z": -0.34,
+    "score": 22.5,
+    "z": -0.22,
     "z_per_source": {
      "wikipedia": 0.51,
      "google_trends": -2.45,
-     "roblox_charts": -0.1,
+     "roblox_charts": 0.5,
      "rolimons": -0.81,
      "urban_dictionary": 3.61,
      "youtube": -0.78
@@ -459,6 +464,7 @@
     32.7,
     32.7,
     32.7,
+    33.0,
     33.0,
     33.0
    ],
@@ -518,13 +524,14 @@
     20.2,
     20.2,
     20.2,
+    20.0,
     20.0
    ],
    "phase": "stabiel",
    "slope_3d": -0.07,
    "detail": {
     "score": 20.0,
-    "z": 0.27,
+    "z": 0.26,
     "z_per_source": {
      "wikipedia": -0.3,
      "google_trends": -0.35,
@@ -571,6 +578,7 @@
     32.7,
     32.7,
     32.7,
+    2.1,
     2.1
    ],
    "phase": "dalend",
@@ -602,8 +610,8 @@
    "label": "turbine",
    "track": "longterm",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 20)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-08-31",
    "score": 19.7,
    "score_history": [
@@ -619,10 +627,11 @@
     15.8,
     12.7,
     12.5,
+    19.7,
     19.7
    ],
    "phase": "stabiel",
-   "slope_3d": 1.3,
+   "slope_3d": 2.33,
    "detail": {
     "score": 19.7,
     "z": 0.35,
@@ -667,10 +676,11 @@
     17.5,
     34.9,
     45.0,
+    34.3,
     34.3
    ],
-   "phase": "stabiel",
-   "slope_3d": 5.6,
+   "phase": "dalend",
+   "slope_3d": -0.2,
    "detail": {
     "score": 34.3,
     "z": 1.05,
@@ -701,9 +711,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 3)",
+   "status_reason": "nog onder de drempel (nu 5)",
    "first_seen": "2026-09-01",
-   "score": 3.0,
+   "score": 5.4,
    "score_history": [
     32.2,
     3.1,
@@ -716,24 +726,27 @@
     37.1,
     31.0,
     4.6,
-    3.0
+    3.0,
+    5.4
    ],
-   "phase": "dalend",
-   "slope_3d": -11.37,
+   "phase": "stabiel",
+   "slope_3d": -8.53,
    "detail": {
-    "score": 3.0,
-    "z": -0.93,
+    "score": 5.4,
+    "z": -0.66,
     "z_per_source": {
-     "roblox_charts": -1.33,
+     "google_trends": 0.0,
+     "roblox_charts": -1.31,
      "rolimons": -0.9,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
-    "sources_used": 3,
+    "sources_used": 4,
     "rising_sources": [],
-    "level": 0.241
+    "level": 0.247
    },
    "sources_present": [
+    "google_trends",
     "roblox_charts",
     "rolimons",
     "urban_dictionary"
@@ -748,9 +761,9 @@
    "track": "roblox",
    "status_before": "bevestigd",
    "status_suggested": "bevestigd",
-   "status_reason": "blijft staan (nu 55, piek 73)",
+   "status_reason": "blijft staan (nu 49, piek 73)",
    "first_seen": "2026-09-01",
-   "score": 54.9,
+   "score": 49.2,
    "score_history": [
     22.2,
     33.9,
@@ -762,28 +775,31 @@
     44.7,
     71.9,
     52.1,
-    54.9
+    54.9,
+    49.2
    ],
-   "phase": "dalend",
-   "slope_3d": 3.4,
+   "phase": "stabiel",
+   "slope_3d": -7.57,
    "detail": {
-    "score": 54.9,
-    "z": 2.46,
+    "score": 49.2,
+    "z": 1.91,
     "z_per_source": {
-     "roblox_charts": 0.12,
+     "google_trends": -0.07,
+     "roblox_charts": 0.21,
      "rolimons": 1.22,
      "urban_dictionary": 0.0,
      "youtube": 8.0
     },
     "breadth": 2,
-    "sources_used": 4,
+    "sources_used": 5,
     "rising_sources": [
      "rolimons",
      "youtube"
     ],
-    "level": 0.725
+    "level": 0.745
    },
    "sources_present": [
+    "google_trends",
     "roblox_charts",
     "rolimons",
     "urban_dictionary",
@@ -798,10 +814,10 @@
    "label": "markwayne mullin",
    "track": "longterm",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 11)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-02",
-   "score": 10.7,
+   "score": 11.5,
    "score_history": [
     0.0,
     0.0,
@@ -812,70 +828,30 @@
     13.2,
     13.1,
     9.9,
-    10.7
+    10.7,
+    11.5
    ],
    "phase": "stabiel",
-   "slope_3d": -0.83,
+   "slope_3d": -0.53,
    "detail": {
-    "score": 10.7,
-    "z": -0.19,
+    "score": 11.5,
+    "z": -0.1,
     "z_per_source": {
      "wikipedia": -0.27,
+     "google_trends": 0.04,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
-    "sources_used": 2,
+    "sources_used": 3,
     "rising_sources": [],
     "level": 0.383
    },
    "sources_present": [
+    "google_trends",
     "urban_dictionary",
     "wikipedia"
    ],
    "wikipedia_article": "Markwayne_Mullin",
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit google_trending"
-  },
-  {
-   "term": "dennis rodman",
-   "label": "dennis rodman",
-   "track": "longterm",
-   "status_before": "bevestigd",
-   "status_suggested": "afgevoerd",
-   "status_reason": "ingestort naar 16 vanaf piek 88",
-   "first_seen": "2026-09-02",
-   "score": 16.0,
-   "score_history": [
-    0.0,
-    0.0,
-    63.2,
-    67.5,
-    88.0,
-    85.1,
-    41.7,
-    42.1,
-    32.6,
-    16.0
-   ],
-   "phase": "dalend",
-   "slope_3d": -8.57,
-   "detail": {
-    "score": 16.0,
-    "z": 0.37,
-    "z_per_source": {
-     "wikipedia": 0.52,
-     "urban_dictionary": 0.0
-    },
-    "breadth": 0,
-    "sources_used": 2,
-    "rising_sources": [],
-    "level": 0.429
-   },
-   "sources_present": [
-    "urban_dictionary",
-    "wikipedia"
-   ],
-   "wikipedia_article": "Dennis_Rodman",
    "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit google_trending"
   },
@@ -885,9 +861,9 @@
    "track": "hype",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 36)",
+   "status_reason": "nog onder de drempel (nu 32)",
    "first_seen": "2026-09-02",
-   "score": 35.6,
+   "score": 32.5,
    "score_history": [
     0.0,
     0.0,
@@ -898,26 +874,29 @@
     18.5,
     18.5,
     37.2,
-    35.6
+    35.6,
+    32.5
    ],
-   "phase": "stijgend",
-   "slope_3d": 5.7,
+   "phase": "stabiel",
+   "slope_3d": 4.67,
    "detail": {
-    "score": 35.6,
-    "z": 0.82,
+    "score": 32.5,
+    "z": 0.57,
     "z_per_source": {
      "wikipedia": 2.29,
+     "google_trends": 0.0,
      "know_your_meme": -0.82,
      "urban_dictionary": 0.0
     },
     "breadth": 1,
-    "sources_used": 3,
+    "sources_used": 4,
     "rising_sources": [
      "wikipedia"
     ],
     "level": 1.0
    },
    "sources_present": [
+    "google_trends",
     "know_your_meme",
     "urban_dictionary",
     "wikipedia"
@@ -927,59 +906,14 @@
    "notes": "automatisch opgepikt uit kym_new"
   },
   {
-   "term": "killing of the clancy children",
-   "label": "Killing_of_the_Clancy_children",
-   "track": "longterm",
-   "status_before": "bevestigd",
-   "status_suggested": "afgevoerd",
-   "status_reason": "ingestort naar 14 vanaf piek 80",
-   "first_seen": "2026-09-02",
-   "score": 14.0,
-   "score_history": [
-    0.0,
-    0.0,
-    71.4,
-    69.4,
-    71.0,
-    71.0,
-    79.9,
-    80.2,
-    37.3,
-    14.0
-   ],
-   "phase": "dalend",
-   "slope_3d": -21.97,
-   "detail": {
-    "score": 14.0,
-    "z": 0.24,
-    "z_per_source": {
-     "wikipedia": 0.9,
-     "google_trends": -0.39,
-     "urban_dictionary": 0.0
-    },
-    "breadth": 0,
-    "sources_used": 3,
-    "rising_sources": [],
-    "level": 0.341
-   },
-   "sources_present": [
-    "google_trends",
-    "urban_dictionary",
-    "wikipedia"
-   ],
-   "wikipedia_article": "Killing_of_the_Clancy_children",
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit wikipedia_top"
-  },
-  {
    "term": "los angeles clippers",
    "label": "los angeles clippers",
    "track": "longterm",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 9)",
+   "status_reason": "nog onder de drempel (nu 10)",
    "first_seen": "2026-09-02",
-   "score": 8.9,
+   "score": 10.4,
    "score_history": [
     0.0,
     0.0,
@@ -990,16 +924,17 @@
     28.9,
     31.3,
     9.1,
-    8.9
+    8.9,
+    10.4
    ],
-   "phase": "dalend",
-   "slope_3d": -6.67,
+   "phase": "stabiel",
+   "slope_3d": -6.97,
    "detail": {
-    "score": 8.9,
-    "z": -0.15,
+    "score": 10.4,
+    "z": 0.03,
     "z_per_source": {
      "wikipedia": 0.01,
-     "google_trends": -0.39,
+     "google_trends": 0.07,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
@@ -1021,10 +956,10 @@
    "label": "isla fisher",
    "track": "longterm",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 6)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-02",
-   "score": 6.4,
+   "score": 8.4,
    "score_history": [
     0.0,
     0.0,
@@ -1035,16 +970,17 @@
     12.0,
     12.0,
     6.5,
-    6.4
+    6.4,
+    8.4
    ],
    "phase": "stabiel",
-   "slope_3d": -1.87,
+   "slope_3d": -1.2,
    "detail": {
-    "score": 6.4,
-    "z": -0.7,
+    "score": 8.4,
+    "z": -0.46,
     "z_per_source": {
      "wikipedia": -0.62,
-     "google_trends": -1.1,
+     "google_trends": -0.49,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
@@ -1065,11 +1001,11 @@
    "term": "lane kiffin",
    "label": "lane kiffin",
    "track": "longterm",
-   "status_before": "misschien",
+   "status_before": "bevestigd",
    "status_suggested": "bevestigd",
-   "status_reason": "3x boven 55 in laatste 3 dagen, 2 bronnen stijgen",
+   "status_reason": "blijft staan (nu 73, piek 73)",
    "first_seen": "2026-09-02",
-   "score": 72.7,
+   "score": 73.2,
    "score_history": [
     0.0,
     0.0,
@@ -1079,16 +1015,17 @@
     42.4,
     64.5,
     56.0,
-    72.7
+    72.7,
+    73.2
    ],
    "phase": "stijgend",
-   "slope_3d": 10.1,
+   "slope_3d": 2.9,
    "detail": {
-    "score": 72.7,
-    "z": 3.98,
+    "score": 73.2,
+    "z": 4.04,
     "z_per_source": {
      "wikipedia": 8.0,
-     "google_trends": 1.29,
+     "google_trends": 1.43,
      "urban_dictionary": 0.0
     },
     "breadth": 2,
@@ -1116,7 +1053,7 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 26)",
    "first_seen": "2026-09-02",
-   "score": 25.6,
+   "score": 26.4,
    "score_history": [
     0.0,
     0.0,
@@ -1126,16 +1063,17 @@
     54.8,
     54.8,
     79.6,
-    25.6
+    25.6,
+    26.4
    ],
    "phase": "dalend",
-   "slope_3d": -9.73,
+   "slope_3d": -9.47,
    "detail": {
-    "score": 25.6,
-    "z": 0.47,
+    "score": 26.4,
+    "z": 0.55,
     "z_per_source": {
      "wikipedia": 1.28,
-     "google_trends": -0.22,
+     "google_trends": 0.0,
      "urban_dictionary": 0.0
     },
     "breadth": 1,
@@ -1159,10 +1097,10 @@
    "label": "Orange Shades",
    "track": "roblox",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 7)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-02",
-   "score": 7.1,
+   "score": 9.0,
    "score_history": [
     0.0,
     0.0,
@@ -1172,23 +1110,26 @@
     11.0,
     11.0,
     7.4,
-    7.1
+    7.1,
+    9.0
    ],
    "phase": "stabiel",
-   "slope_3d": -1.3,
+   "slope_3d": -0.67,
    "detail": {
-    "score": 7.1,
-    "z": -1.29,
+    "score": 9.0,
+    "z": -0.78,
     "z_per_source": {
      "wikipedia": -1.8,
+     "google_trends": 0.0,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
-    "sources_used": 2,
+    "sources_used": 3,
     "rising_sources": [],
     "level": 0.71
    },
    "sources_present": [
+    "google_trends",
     "urban_dictionary",
     "wikipedia"
    ],
@@ -1202,9 +1143,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 34)",
+   "status_reason": "nog onder de drempel (nu 42)",
    "first_seen": "2026-09-03",
-   "score": 34.2,
+   "score": 42.5,
    "score_history": [
     7.6,
     7.6,
@@ -1213,28 +1154,32 @@
     37.6,
     36.7,
     23.3,
-    34.2
+    34.2,
+    42.5
    ],
-   "phase": "stabiel",
-   "slope_3d": -1.13,
+   "phase": "stijgend",
+   "slope_3d": 1.93,
    "detail": {
-    "score": 34.2,
-    "z": 1.32,
+    "score": 42.5,
+    "z": 1.39,
     "z_per_source": {
      "wikipedia": -0.9,
-     "roblox_charts": 0.33,
+     "google_trends": 1.63,
+     "roblox_charts": 0.42,
      "rolimons": -0.47,
      "youtube": 8.0,
      "urban_dictionary": 0.0
     },
-    "breadth": 1,
-    "sources_used": 5,
+    "breadth": 2,
+    "sources_used": 6,
     "rising_sources": [
+     "google_trends",
      "youtube"
     ],
     "level": 0.596
    },
    "sources_present": [
+    "google_trends",
     "roblox_charts",
     "rolimons",
     "urban_dictionary",
@@ -1251,9 +1196,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 11)",
+   "status_reason": "nog onder de drempel (nu 12)",
    "first_seen": "2026-09-03",
-   "score": 11.4,
+   "score": 11.9,
    "score_history": [
     3.0,
     3.4,
@@ -1262,22 +1207,23 @@
     34.2,
     32.3,
     16.7,
-    11.4
+    11.4,
+    11.9
    ],
-   "phase": "dalend",
-   "slope_3d": -7.6,
+   "phase": "stabiel",
+   "slope_3d": -6.8,
    "detail": {
-    "score": 11.4,
-    "z": -0.22,
+    "score": 11.9,
+    "z": -0.18,
     "z_per_source": {
-     "roblox_charts": -0.46,
+     "roblox_charts": -0.38,
      "rolimons": -0.04,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.472
+    "level": 0.49
    },
    "sources_present": [
     "roblox_charts",
@@ -1297,7 +1243,7 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 10)",
    "first_seen": "2026-09-03",
-   "score": 10.0,
+   "score": 10.3,
    "score_history": [
     6.0,
     7.7,
@@ -1306,22 +1252,23 @@
     39.0,
     37.5,
     36.2,
-    10.0
+    10.0,
+    10.3
    ],
    "phase": "dalend",
-   "slope_3d": -9.67,
+   "slope_3d": -9.07,
    "detail": {
-    "score": 10.0,
-    "z": -0.19,
+    "score": 10.3,
+    "z": -0.17,
     "z_per_source": {
-     "roblox_charts": -1.12,
+     "roblox_charts": -1.07,
      "rolimons": 0.75,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.311
+    "level": 0.324
    },
    "sources_present": [
     "roblox_charts",
@@ -1338,9 +1285,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 7)",
+   "status_reason": "nog onder de drempel (nu 8)",
    "first_seen": "2026-09-03",
-   "score": 7.3,
+   "score": 7.8,
    "score_history": [
     10.7,
     40.6,
@@ -1348,23 +1295,24 @@
     16.4,
     14.6,
     33.3,
-    7.3
+    7.3,
+    7.8
    ],
-   "phase": "stabiel",
-   "slope_3d": -3.03,
+   "phase": "dalend",
+   "slope_3d": -2.27,
    "detail": {
-    "score": 7.3,
-    "z": -0.63,
+    "score": 7.8,
+    "z": -0.6,
     "z_per_source": {
-     "youtube": -0.51,
+     "youtube": -0.5,
      "urban_dictionary": 0.0,
-     "roblox_charts": -1.29,
+     "roblox_charts": -1.18,
      "rolimons": -0.3
     },
     "breadth": 0,
     "sources_used": 4,
     "rising_sources": [],
-    "level": 0.421
+    "level": 0.432
    },
    "sources_present": [
     "roblox_charts",
@@ -1384,7 +1332,7 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 3)",
    "first_seen": "2026-09-03",
-   "score": 3.0,
+   "score": 2.8,
    "score_history": [
     4.9,
     32.7,
@@ -1392,106 +1340,23 @@
     26.0,
     13.0,
     8.6,
-    3.0
+    3.0,
+    2.8
    ],
-   "phase": "dalend",
-   "slope_3d": -7.67,
+   "phase": "stabiel",
+   "slope_3d": -3.4,
    "detail": {
-    "score": 3.0,
-    "z": -0.96,
+    "score": 2.8,
+    "z": -0.98,
     "z_per_source": {
-     "roblox_charts": -1.55,
+     "roblox_charts": -1.6,
      "rolimons": -0.73,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.264
-   },
-   "sources_present": [
-    "roblox_charts",
-    "rolimons",
-    "urban_dictionary"
-   ],
-   "wikipedia_article": null,
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
-   "term": "duels murderers vs sheriffs",
-   "label": "[🌌DUELS] Murderers VS Sheriffs",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-03",
-   "score": 6.1,
-   "score_history": [
-    3.5,
-    37.6,
-    15.1,
-    15.4,
-    15.4,
-    7.4,
-    6.1
-   ],
-   "phase": "dalend",
-   "slope_3d": -3.1,
-   "detail": {
-    "score": 6.1,
-    "z": -0.68,
-    "z_per_source": {
-     "roblox_charts": -0.82,
-     "rolimons": -0.82,
-     "urban_dictionary": 0.0
-    },
-    "breadth": 0,
-    "sources_used": 3,
-    "rising_sources": [],
-    "level": 0.332
-   },
-   "sources_present": [
-    "roblox_charts",
-    "rolimons",
-    "urban_dictionary"
-   ],
-   "wikipedia_article": null,
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
-   "term": "catalog avatar creator",
-   "label": "Catalog Avatar Creator",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-03",
-   "score": 6.4,
-   "score_history": [
-    4.1,
-    28.3,
-    13.8,
-    13.7,
-    13.0,
-    9.0,
-    6.4
-   ],
-   "phase": "stabiel",
-   "slope_3d": -2.43,
-   "detail": {
-    "score": 6.4,
-    "z": -0.64,
-    "z_per_source": {
-     "roblox_charts": -1.21,
-     "rolimons": -0.28,
-     "urban_dictionary": 0.0
-    },
-    "breadth": 0,
-    "sources_used": 3,
-    "rising_sources": [],
-    "level": 0.326
+    "level": 0.261
    },
    "sources_present": [
     "roblox_charts",
@@ -1510,7 +1375,7 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 6)",
    "first_seen": "2026-09-03",
-   "score": 5.7,
+   "score": 6.1,
    "score_history": [
     5.4,
     34.7,
@@ -1518,22 +1383,23 @@
     20.0,
     18.7,
     8.3,
-    5.7
+    5.7,
+    6.1
    ],
-   "phase": "dalend",
-   "slope_3d": -4.77,
+   "phase": "stabiel",
+   "slope_3d": -4.2,
    "detail": {
-    "score": 5.7,
-    "z": -0.58,
+    "score": 6.1,
+    "z": -0.55,
     "z_per_source": {
-     "roblox_charts": -1.37,
+     "roblox_charts": -1.3,
      "rolimons": 0.05,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.206
+    "level": 0.221
    },
    "sources_present": [
     "roblox_charts",
@@ -1552,7 +1418,7 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 7)",
    "first_seen": "2026-09-03",
-   "score": 6.8,
+   "score": 7.2,
    "score_history": [
     0.0,
     0.0,
@@ -1560,20 +1426,21 @@
     47.0,
     21.4,
     11.6,
-    6.8
+    6.8,
+    7.2
    ],
-   "phase": "dalend",
-   "slope_3d": -13.4,
+   "phase": "stabiel",
+   "slope_3d": -4.73,
    "detail": {
-    "score": 6.8,
-    "z": -2.15,
+    "score": 7.2,
+    "z": -1.74,
     "z_per_source": {
-     "roblox_charts": -2.15
+     "roblox_charts": -1.74
     },
     "breadth": 0,
     "sources_used": 1,
     "rising_sources": [],
-    "level": 0.683
+    "level": 0.72
    },
    "sources_present": [
     "roblox_charts"
@@ -1598,10 +1465,11 @@
     39.5,
     25.8,
     17.4,
+    17.4,
     17.4
    ],
-   "phase": "dalend",
-   "slope_3d": -7.37,
+   "phase": "stabiel",
+   "slope_3d": -2.8,
    "detail": {
     "score": 17.4,
     "z": -0.09,
@@ -1628,9 +1496,9 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 4)",
+   "status_reason": "nog onder de drempel (nu 5)",
    "first_seen": "2026-09-03",
-   "score": 4.5,
+   "score": 4.9,
    "score_history": [
     0.0,
     0.0,
@@ -1638,16 +1506,17 @@
     57.8,
     23.5,
     3.3,
-    4.5
+    4.5,
+    4.9
    ],
-   "phase": "dalend",
-   "slope_3d": -17.77,
+   "phase": "stabiel",
+   "slope_3d": -6.2,
    "detail": {
-    "score": 4.5,
-    "z": -0.87,
+    "score": 4.9,
+    "z": -0.82,
     "z_per_source": {
      "wikipedia": 0.36,
-     "roblox_charts": -2.09
+     "roblox_charts": -1.99
     },
     "breadth": 0,
     "sources_used": 2,
@@ -1677,9 +1546,10 @@
     0.0,
     0.0,
     88.0,
+    84.4,
     84.4
    ],
-   "phase": "stijgend",
+   "phase": "piek",
    "slope_3d": 28.13,
    "detail": {
     "score": 84.4,
@@ -1702,173 +1572,25 @@
    "notes": "automatisch opgepikt uit google_trending"
   },
   {
-   "term": "murder mystery 2",
-   "label": "Murder Mystery 2",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-05",
-   "score": 15.7,
-   "score_history": [
-    10.6,
-    12.9,
-    10.8,
-    9.4,
-    15.7
-   ],
-   "phase": "stabiel",
-   "slope_3d": 0.93,
-   "detail": {
-    "score": 15.7,
-    "z": -0.16,
-    "z_per_source": {
-     "wikipedia": 0.9,
-     "urban_dictionary": 0.0,
-     "roblox_charts": -0.77,
-     "rolimons": -0.74
-    },
-    "breadth": 0,
-    "sources_used": 4,
-    "rising_sources": [],
-    "level": 0.852
-   },
-   "sources_present": [
-    "roblox_charts",
-    "rolimons",
-    "urban_dictionary",
-    "wikipedia"
-   ],
-   "wikipedia_article": "Murder_Mystery_2",
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
-   "term": "new 1 speed keyboard escape candy chocolate",
-   "label": "[NEW] +1 Speed Keyboard Escape | Candy & Chocolate",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-05",
-   "score": 0.0,
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "phase": "stabiel",
-   "slope_3d": 0.0,
-   "detail": {
-    "score": 0.0,
-    "z": 0.0,
-    "breadth": 0,
-    "sources_used": 0,
-    "level": 0.0,
-    "note": "te weinig historie"
-   },
-   "sources_present": [],
-   "wikipedia_article": null,
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
-   "term": "register jujutsu shenanigans",
-   "label": "[REGISTER] Jujutsu Shenanigans",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-05",
-   "score": 9.5,
-   "score_history": [
-    9.5,
-    9.5,
-    9.5,
-    9.5,
-    9.5
-   ],
-   "phase": "stabiel",
-   "slope_3d": 0.0,
-   "detail": {
-    "score": 9.5,
-    "z": -0.48,
-    "z_per_source": {
-     "roblox_charts": -0.51,
-     "rolimons": -0.66,
-     "urban_dictionary": 0.0
-    },
-    "breadth": 0,
-    "sources_used": 3,
-    "rising_sources": [],
-    "level": 0.51
-   },
-   "sources_present": [
-    "roblox_charts",
-    "rolimons",
-    "urban_dictionary"
-   ],
-   "wikipedia_article": null,
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
-   "term": "2nd floor animal hospital anomaly",
-   "label": "[2nd FLOOR] Animal Hospital (Anomaly) 🧪",
-   "track": "roblox",
-   "status_before": "misschien",
-   "status_suggested": "afgevoerd",
-   "status_reason": "vijf dagen nauwelijks beweging",
-   "first_seen": "2026-09-05",
-   "score": 5.9,
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    8.3,
-    5.9
-   ],
-   "phase": "stabiel",
-   "slope_3d": 1.97,
-   "detail": {
-    "score": 5.9,
-    "z": -4.0,
-    "z_per_source": {
-     "roblox_charts": -4.0
-    },
-    "breadth": 0,
-    "sources_used": 1,
-    "rising_sources": [],
-    "level": 0.593
-   },
-   "sources_present": [
-    "roblox_charts"
-   ],
-   "wikipedia_article": null,
-   "wikipedia_checked": true,
-   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
-  },
-  {
    "term": "sky assassin jujutsu shenanigans",
    "label": "[SKY ASSASSIN] Jujutsu Shenanigans",
    "track": "roblox",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 6)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-05",
-   "score": 6.3,
+   "score": 6.7,
    "score_history": [
     0.0,
     0.0,
     0.0,
-    6.3
+    6.3,
+    6.7
    ],
    "phase": "stabiel",
-   "slope_3d": 2.1,
+   "slope_3d": 2.23,
    "detail": {
-    "score": 6.3,
+    "score": 6.7,
     "z": -4.0,
     "z_per_source": {
      "roblox_charts": -4.0
@@ -1876,7 +1598,7 @@
     "breadth": 0,
     "sources_used": 1,
     "rising_sources": [],
-    "level": 0.631
+    "level": 0.665
    },
    "sources_present": [
     "roblox_charts"
@@ -1890,11 +1612,12 @@
    "label": "Fisch 🐋 [NOW]",
    "track": "roblox",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 0)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-05",
    "score": 0.0,
    "score_history": [
+    0.0,
     0.0,
     0.0,
     0.0,
@@ -1920,20 +1643,21 @@
    "label": "[WEEK 2 ⛱️] Forsaken",
    "track": "roblox",
    "status_before": "misschien",
-   "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 4)",
+   "status_suggested": "afgevoerd",
+   "status_reason": "vijf dagen nauwelijks beweging",
    "first_seen": "2026-09-05",
-   "score": 3.5,
+   "score": 3.8,
    "score_history": [
     0.0,
     0.0,
     0.0,
-    3.5
+    3.5,
+    3.8
    ],
    "phase": "stabiel",
-   "slope_3d": 1.17,
+   "slope_3d": 1.27,
    "detail": {
-    "score": 3.5,
+    "score": 3.8,
     "z": -4.0,
     "z_per_source": {
      "roblox_charts": -4.0
@@ -1941,7 +1665,7 @@
     "breadth": 0,
     "sources_used": 1,
     "rising_sources": [],
-    "level": 0.346
+    "level": 0.376
    },
    "sources_present": [
     "roblox_charts"
@@ -1962,6 +1686,7 @@
    "score_history": [
     0.0,
     0.0,
+    0.0,
     0.0
    ],
    "phase": "stabiel",
@@ -1976,7 +1701,7 @@
    },
    "sources_present": [],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit kym_new"
   },
   {
@@ -1991,6 +1716,7 @@
    "score_history": [
     0.0,
     0.0,
+    0.0,
     0.0
    ],
    "phase": "stabiel",
@@ -2005,7 +1731,7 @@
    },
    "sources_present": [],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit roblox_catalog"
   },
   {
@@ -2020,6 +1746,7 @@
    "score_history": [
     0.0,
     0.0,
+    0.0,
     0.0
    ],
    "phase": "stabiel",
@@ -2034,7 +1761,7 @@
    },
    "sources_present": [],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit google_trending"
   },
   {
@@ -2049,10 +1776,11 @@
    "score_history": [
     0.0,
     0.0,
+    18.6,
     18.6
    ],
    "phase": "stijgend",
-   "slope_3d": 9.3,
+   "slope_3d": 6.2,
    "detail": {
     "score": 18.6,
     "z": 0.0,
@@ -2068,7 +1796,7 @@
     "know_your_meme"
    ],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit kym_new"
   },
   {
@@ -2077,27 +1805,33 @@
    "track": "longterm",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 0)",
+   "status_reason": "nog onder de drempel (nu 12)",
    "first_seen": "2026-09-06",
-   "score": 0.0,
+   "score": 12.0,
    "score_history": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    12.0
    ],
-   "phase": "stabiel",
-   "slope_3d": 0.0,
+   "phase": "stijgend",
+   "slope_3d": 4.0,
    "detail": {
-    "score": 0.0,
-    "z": 0.0,
+    "score": 12.0,
+    "z": 0.27,
+    "z_per_source": {
+     "wikipedia": 0.27
+    },
     "breadth": 0,
-    "sources_used": 0,
-    "level": 0.0,
-    "note": "te weinig historie"
+    "sources_used": 1,
+    "rising_sources": [],
+    "level": 0.115
    },
-   "sources_present": [],
-   "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "sources_present": [
+    "wikipedia"
+   ],
+   "wikipedia_article": "Gloria_Steinem",
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit wikipedia_top"
   },
   {
@@ -2112,6 +1846,7 @@
    "score_history": [
     0.0,
     0.0,
+    0.0,
     0.0
    ],
    "phase": "stabiel",
@@ -2126,7 +1861,7 @@
    },
    "sources_present": [],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit google_trending"
   },
   {
@@ -2141,10 +1876,11 @@
    "score_history": [
     0.0,
     0.0,
+    18.6,
     18.6
    ],
    "phase": "stijgend",
-   "slope_3d": 9.3,
+   "slope_3d": 6.2,
    "detail": {
     "score": 18.6,
     "z": 0.0,
@@ -2160,7 +1896,7 @@
     "know_your_meme"
    ],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit kym_new"
   },
   {
@@ -2174,9 +1910,10 @@
    "score": 0.0,
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
-   "phase": "nieuw",
+   "phase": "stabiel",
    "slope_3d": 0.0,
    "detail": {
     "score": 0.0,
@@ -2188,7 +1925,7 @@
    },
    "sources_present": [],
    "wikipedia_article": null,
-   "wikipedia_checked": false,
+   "wikipedia_checked": true,
    "notes": "automatisch opgepikt uit google_trending"
   },
   {
@@ -2202,9 +1939,10 @@
    "score": 0.0,
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
-   "phase": "nieuw",
+   "phase": "stabiel",
    "slope_3d": 0.0,
    "detail": {
     "score": 0.0,
@@ -2230,9 +1968,10 @@
    "score": 0.0,
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
-   "phase": "nieuw",
+   "phase": "stabiel",
    "slope_3d": 0.0,
    "detail": {
     "score": 0.0,
@@ -2255,24 +1994,25 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 2)",
    "first_seen": "2026-09-07",
-   "score": 1.8,
+   "score": 1.7,
    "score_history": [
-    1.8
+    1.8,
+    1.7
    ],
    "phase": "nieuw",
-   "slope_3d": 0.0,
+   "slope_3d": -0.1,
    "detail": {
-    "score": 1.8,
-    "z": -1.46,
+    "score": 1.7,
+    "z": -1.48,
     "z_per_source": {
-     "roblox_charts": -2.51,
+     "roblox_charts": -2.54,
      "rolimons": -0.95,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.175
+    "level": 0.168
    },
    "sources_present": [
     "roblox_charts",
@@ -2291,24 +2031,25 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 4)",
    "first_seen": "2026-09-07",
-   "score": 4.5,
+   "score": 4.0,
    "score_history": [
-    4.5
+    4.5,
+    4.0
    ],
    "phase": "nieuw",
-   "slope_3d": 0.0,
+   "slope_3d": -0.5,
    "detail": {
-    "score": 4.5,
-    "z": -0.82,
+    "score": 4.0,
+    "z": -0.86,
     "z_per_source": {
-     "roblox_charts": -1.5,
+     "roblox_charts": -1.58,
      "rolimons": -0.44,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.3
+    "level": 0.284
    },
    "sources_present": [
     "roblox_charts",
@@ -2329,6 +2070,7 @@
    "first_seen": "2026-09-07",
    "score": 5.6,
    "score_history": [
+    5.6,
     5.6
    ],
    "phase": "nieuw",
@@ -2337,14 +2079,14 @@
     "score": 5.6,
     "z": -0.88,
     "z_per_source": {
-     "roblox_charts": -0.32,
+     "roblox_charts": -0.34,
      "rolimons": -1.88,
      "urban_dictionary": 0.0
     },
     "breadth": 0,
     "sources_used": 3,
     "rising_sources": [],
-    "level": 0.458
+    "level": 0.456
    },
    "sources_present": [
     "roblox_charts",
@@ -2365,6 +2107,7 @@
    "first_seen": "2026-09-07",
    "score": 0.0,
    "score_history": [
+    0.0,
     0.0
    ],
    "phase": "nieuw",
@@ -2392,6 +2135,7 @@
    "first_seen": "2026-09-07",
    "score": 0.0,
    "score_history": [
+    0.0,
     0.0
    ],
    "phase": "nieuw",
@@ -2415,25 +2159,26 @@
    "track": "roblox",
    "status_before": "misschien",
    "status_suggested": "misschien",
-   "status_reason": "nog onder de drempel (nu 4)",
+   "status_reason": "nog onder de drempel (nu 6)",
    "first_seen": "2026-09-07",
-   "score": 4.3,
+   "score": 5.8,
    "score_history": [
-    4.3
+    4.3,
+    5.8
    ],
    "phase": "nieuw",
-   "slope_3d": 0.0,
+   "slope_3d": 1.5,
    "detail": {
-    "score": 4.3,
-    "z": -1.83,
+    "score": 5.8,
+    "z": -1.27,
     "z_per_source": {
-     "roblox_charts": -2.23,
+     "roblox_charts": -1.16,
      "rolimons": -1.39
     },
     "breadth": 0,
     "sources_used": 2,
     "rising_sources": [],
-    "level": 0.43
+    "level": 0.576
    },
    "sources_present": [
     "roblox_charts",
@@ -2453,6 +2198,7 @@
    "first_seen": "2026-09-07",
    "score": 0.0,
    "score_history": [
+    0.0,
     0.0
    ],
    "phase": "nieuw",
@@ -2480,6 +2226,7 @@
    "first_seen": "2026-09-07",
    "score": 0.9,
    "score_history": [
+    0.9,
     0.9
    ],
    "phase": "nieuw",
@@ -2516,6 +2263,7 @@
    "first_seen": "2026-09-07",
    "score": 0.0,
    "score_history": [
+    0.0,
     0.0
    ],
    "phase": "nieuw",
@@ -2541,17 +2289,18 @@
    "status_suggested": "misschien",
    "status_reason": "nog onder de drempel (nu 36)",
    "first_seen": "2026-09-07",
-   "score": 35.8,
+   "score": 35.5,
    "score_history": [
-    35.8
+    35.8,
+    35.5
    ],
    "phase": "nieuw",
-   "slope_3d": 0.0,
+   "slope_3d": -0.3,
    "detail": {
-    "score": 35.8,
-    "z": 0.85,
+    "score": 35.5,
+    "z": 0.81,
     "z_per_source": {
-     "roblox_charts": 3.72,
+     "roblox_charts": 3.63,
      "rolimons": -1.97,
      "urban_dictionary": 0.0
     },
@@ -2570,11 +2319,232 @@
    "wikipedia_article": null,
    "wikipedia_checked": false,
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "i can t do nathan",
+   "label": "I Can't Do Nathan",
+   "track": "hype",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit kym_new"
+  },
+  {
+   "term": "good boy dance",
+   "label": "Good Boy Dance",
+   "track": "roblox",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit roblox_catalog"
+  },
+  {
+   "term": "el nino california sea levels",
+   "label": "el nino california sea levels",
+   "track": "longterm",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit google_trending"
+  },
+  {
+   "term": "watching netflix and tiki takis",
+   "label": "Watching Netflix and Tiki Takis",
+   "track": "hype",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit kym_new"
+  },
+  {
+   "term": "endless aura floating",
+   "label": "Endless Aura Floating",
+   "track": "roblox",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit roblox_catalog"
+  },
+  {
+   "term": "2026 saxony anhalt state election",
+   "label": "2026_Saxony-Anhalt_state_election",
+   "track": "longterm",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit wikipedia_top"
+  },
+  {
+   "term": "russia avalanche",
+   "label": "russia avalanche",
+   "track": "longterm",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit google_trending"
+  },
+  {
+   "term": "kirkversary kirkiversary",
+   "label": "Kirkversary / Kirkiversary",
+   "track": "hype",
+   "status_before": "misschien",
+   "status_suggested": "misschien",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "score_history": [
+    0.0
+   ],
+   "phase": "nieuw",
+   "slope_3d": 0.0,
+   "detail": {
+    "score": 0.0,
+    "z": 0.0,
+    "breadth": 0,
+    "sources_used": 0,
+    "level": 0.0,
+    "note": "te weinig historie"
+   },
+   "sources_present": [],
+   "wikipedia_article": null,
+   "wikipedia_checked": false,
+   "notes": "automatisch opgepikt uit kym_new"
   }
  ],
  "discovery": {
   "reddit_ootl_topics": [],
   "kym_new": [
+   {
+    "title": "U + K Dance Trend",
+    "link": "https://knowyourmeme.com/memes/u-k-dance-trend",
+    "feed": "submissions"
+   },
    {
     "title": "I Can't Do Nathan",
     "link": "https://knowyourmeme.com/memes/i-cant-do-nathan",
@@ -2648,11 +2618,6 @@
    {
     "title": "MAGA Wojak / MAGAtard",
     "link": "https://knowyourmeme.com/memes/maga-wojak-magatard",
-    "feed": "submissions"
-   },
-   {
-    "title": "Saddest Man Alive / Most Beautiful Woman You've Ever Met",
-    "link": "https://knowyourmeme.com/memes/saddest-man-alive-most-beautiful-woman-youve-ever-met",
     "feed": "submissions"
    },
    {
@@ -2758,152 +2723,152 @@
   ],
   "google_trending": [
    {
-    "title": "el nino california sea levels",
+    "title": "santa fe vs vasco",
     "geo": "US",
     "traffic": "500+"
    },
    {
-    "title": "russia avalanche",
+    "title": "monica seles",
     "geo": "US",
     "traffic": "5000+"
    },
    {
-    "title": "puka nacua potential nfl suspension",
-    "geo": "US",
-    "traffic": "500+"
-   },
-   {
-    "title": "alcaraz vs shelton",
-    "geo": "US",
-    "traffic": "500+"
-   },
-   {
-    "title": "wrexham",
-    "geo": "US",
-    "traffic": "1000+"
-   },
-   {
-    "title": "usps",
+    "title": "baker mayfield",
     "geo": "US",
     "traffic": "10000+"
    },
    {
-    "title": "malcolm-jamal warner",
+    "title": "stephen curry",
     "geo": "US",
     "traffic": "1000+"
    },
    {
-    "title": "real betis",
+    "title": "artificial sweetener xylitol cardiovascular events",
+    "geo": "US",
+    "traffic": "500+"
+   },
+   {
+    "title": "tiafoe girlfriend",
+    "geo": "US",
+    "traffic": "500+"
+   },
+   {
+    "title": "liv golf",
     "geo": "US",
     "traffic": "2000+"
    },
    {
-    "title": "michelson tennis",
+    "title": "treveyon henderson",
     "geo": "US",
     "traffic": "1000+"
    },
    {
-    "title": "where was trump on 9/11",
+    "title": "cody rhodes dog",
     "geo": "US",
     "traffic": "500+"
+   },
+   {
+    "title": "el nino california sea levels",
+    "geo": "US",
+    "traffic": "1000+"
+   },
+   {
+    "title": "joey veerman",
+    "geo": "NL",
+    "traffic": "1000+"
+   },
+   {
+    "title": "real madrid wedstrijden",
+    "geo": "NL",
+    "traffic": "500+"
+   },
+   {
+    "title": "hans spekman",
+    "geo": "NL",
+    "traffic": "100+"
+   },
+   {
+    "title": "cucurella",
+    "geo": "NL",
+    "traffic": "100+"
+   },
+   {
+    "title": "woudenberg misbruik",
+    "geo": "NL",
+    "traffic": "500+"
+   },
+   {
+    "title": "real betis",
+    "geo": "NL",
+    "traffic": "200+"
+   },
+   {
+    "title": "miss austria",
+    "geo": "NL",
+    "traffic": "200+"
    },
    {
     "title": "prins mauritssingel",
     "geo": "NL",
-    "traffic": "200+"
+    "traffic": "500+"
    },
    {
     "title": "diomande",
     "geo": "NL",
-    "traffic": "200+"
+    "traffic": "500+"
    },
    {
-    "title": "miss oostenrijk",
-    "geo": "NL",
-    "traffic": "200+"
-   },
-   {
-    "title": "courtois",
+    "title": "vinicius",
     "geo": "NL",
     "traffic": "100+"
    },
    {
-    "title": "stranger things",
-    "geo": "NL",
-    "traffic": "100+"
-   },
-   {
-    "title": "pauw en de wit",
-    "geo": "NL",
-    "traffic": "100+"
-   },
-   {
-    "title": "lifelines groningen",
-    "geo": "NL",
-    "traffic": "100+"
-   },
-   {
-    "title": "dotan",
-    "geo": "NL",
+    "title": "sharon osbourne",
+    "geo": "GB",
     "traffic": "200+"
    },
    {
-    "title": "iphone 16",
-    "geo": "NL",
-    "traffic": "200+"
-   },
-   {
-    "title": "angela de jong",
-    "geo": "NL",
-    "traffic": "200+"
-   },
-   {
-    "title": "lee mack",
+    "title": "lg tv",
     "geo": "GB",
     "traffic": "2000+"
    },
    {
-    "title": "championship table",
+    "title": "suranne jones",
     "geo": "GB",
-    "traffic": "2000+"
+    "traffic": "1000+"
    },
    {
-    "title": "shona mcgarty",
-    "geo": "GB",
-    "traffic": "200+"
-   },
-   {
-    "title": "alison hammond",
-    "geo": "GB",
-    "traffic": "200+"
-   },
-   {
-    "title": "chemsdine talbi",
-    "geo": "GB",
-    "traffic": "200+"
-   },
-   {
-    "title": "this morning presenters",
-    "geo": "GB",
-    "traffic": "200+"
-   },
-   {
-    "title": "bbc live scores",
-    "geo": "GB",
-    "traffic": "200+"
-   },
-   {
-    "title": "chester fc",
-    "geo": "GB",
-    "traffic": "100+"
-   },
-   {
-    "title": "liv golf",
+    "title": "strictly come dancing 2026",
     "geo": "GB",
     "traffic": "500+"
    },
    {
-    "title": "joel piroe",
+    "title": "arne engels",
+    "geo": "GB",
+    "traffic": "200+"
+   },
+   {
+    "title": "championship standings",
+    "geo": "GB",
+    "traffic": "200+"
+   },
+   {
+    "title": "oj simpson",
+    "geo": "GB",
+    "traffic": "100+"
+   },
+   {
+    "title": "southport attack",
+    "geo": "GB",
+    "traffic": "500+"
+   },
+   {
+    "title": "chris hoy",
+    "geo": "GB",
+    "traffic": "500+"
+   },
+   {
+    "title": "diomande",
     "geo": "GB",
     "traffic": "200+"
    }
@@ -3414,223 +3379,277 @@
    {
     "title": "Spiritbox - Mourning (Official Video)",
     "channel": "riserecords",
-    "views": 409035,
+    "views": 420038,
     "region": "US"
    },
    {
     "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
     "channel": "GODZILLA OFFICIAL by TOHO",
-    "views": 2754022,
+    "views": 2946247,
     "region": "US"
    },
    {
     "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
     "channel": "Nintendo of America",
-    "views": 3951296,
+    "views": 4091037,
     "region": "US"
    },
    {
     "title": "&TEAM 'Mark on Me' Official MV",
     "channel": "HYBE LABELS",
-    "views": 1238438,
-    "region": "US"
-   },
-   {
-    "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-    "channel": "GameSpot",
-    "views": 324801,
-    "region": "US"
-   },
-   {
-    "title": "Season 10: Butcher's Blasphemy // Dev Vision Vol. 21 | Marvel Rivals",
-    "channel": "Marvel Rivals",
-    "views": 468885,
-    "region": "US"
-   },
-   {
-    "title": "YFG Fatso - Hung It Up (feat. YFG Geno)  [ Official Music Video]",
-    "channel": "YFG Fatso",
-    "views": 110574,
-    "region": "US"
-   },
-   {
-    "title": "Street Fighter 6 - Arjun Gameplay Trailer",
-    "channel": "Street Fighter",
-    "views": 969853,
-    "region": "US"
-   },
-   {
-    "title": "🔴LIVE | TRYING OUT PROJECT ZOMBOID FOR THE FIRST TIME | Gimmick X John X Cloakzy | #BUNGULATE",
-    "channel": "TheBurntPeanut",
-    "views": 1218379,
-    "region": "US"
-   },
-   {
-    "title": "Mourning",
-    "channel": "Spiritbox - Topic",
-    "views": 44227,
-    "region": "US"
-   },
-   {
-    "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
-    "channel": "ONE Media",
-    "views": 95563,
-    "region": "US"
-   },
-   {
-    "title": "The HUGE Zelda 40th Anniversary Nintendo Direct is HERE!",
-    "channel": "BeatEmUps",
-    "views": 277944,
-    "region": "US"
-   },
-   {
-    "title": "You Could Be The One",
-    "channel": "Limestone Holler - Topic",
-    "views": 9613,
+    "views": 1255823,
     "region": "US"
    },
    {
     "title": "Artificial - Official Teaser Trailer - In Theaters Christmas Day",
     "channel": "NEON",
-    "views": 194965,
+    "views": 230824,
     "region": "US"
    },
    {
-    "title": "Exploring Minecraft's Forgotten Dimension",
-    "channel": "Spoke",
-    "views": 2880538,
+    "title": "Season 10: Butcher's Blasphemy // Dev Vision Vol. 21 | Marvel Rivals",
+    "channel": "Marvel Rivals",
+    "views": 531050,
     "region": "US"
    },
    {
     "title": "My Kinda Party",
     "channel": "Jason Aldean - Topic",
-    "views": 20769,
+    "views": 21488,
     "region": "US"
    },
    {
-    "title": "The Haunting Launch Trailer | Call of Duty: Warzone & Black Ops 7",
-    "channel": "Call of Duty",
-    "views": 147265,
-    "region": "US"
-   },
-   {
-    "title": "I Pretended to be a BABY TRANSFORMER on ONE CHUNK!",
-    "channel": "Cash",
-    "views": 1035082,
-    "region": "US"
-   },
-   {
-    "title": "Jarahn x SHLD - Yu Les (Audio) feat. Nene Morus & Rich Antony ",
-    "channel": "Jarahn",
-    "views": 94959,
-    "region": "US"
-   },
-   {
-    "title": "Remain | Official Teaser",
-    "channel": "Warner Bros.",
-    "views": 285218,
+    "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+    "channel": "ONE Media",
+    "views": 102466,
     "region": "US"
    },
    {
     "title": "MOLDRISE",
     "channel": "Markiplier",
-    "views": 208370,
+    "views": 247618,
     "region": "US"
    },
    {
-    "title": "Katy Perry - The One That Got Away (Lyrics)",
-    "channel": "Tearbluee",
-    "views": 350282,
+    "title": "You Could Be The One",
+    "channel": "Limestone Holler - Topic",
+    "views": 10515,
     "region": "US"
    },
    {
-    "title": "You Can See Everything - Official Teaser (2026) Nathan Fielder, Elizabeth Holmes",
-    "channel": "IGN Movie Trailers",
-    "views": 219934,
+    "title": "Remain | Official Teaser",
+    "channel": "Warner Bros.",
+    "views": 449761,
+    "region": "US"
+   },
+   {
+    "title": "🔴LIVE | TRYING OUT PROJECT ZOMBOID FOR THE FIRST TIME | Gimmick X John X Cloakzy | #BUNGULATE",
+    "channel": "TheBurntPeanut",
+    "views": 1222880,
+    "region": "US"
+   },
+   {
+    "title": "YFG Fatso - Hung It Up (feat. YFG Geno)  [ Official Music Video]",
+    "channel": "YFG Fatso",
+    "views": 113660,
+    "region": "US"
+   },
+   {
+    "title": "Street Fighter 6 - Arjun Gameplay Trailer",
+    "channel": "Street Fighter",
+    "views": 977995,
     "region": "US"
    },
    {
     "title": "The Zelda 40th Anniversary Direct Was INSANE!",
     "channel": "Austin John Plays",
-    "views": 140645,
+    "views": 181240,
     "region": "US"
    },
    {
-    "title": "Romeo Santos - Imitadora 💔 (Letra/Lyrics)",
-    "channel": "Octava Retro",
-    "views": 1118267,
+    "title": "Te Recordaré",
+    "channel": "Release - Topic",
+    "views": 430904,
     "region": "US"
    },
    {
-    "title": "Marvel’s Wolverine - “The Best There Is” Trailer | PS5 Games",
-    "channel": "PlayStation",
-    "views": 204764,
+    "title": "The Haunting Launch Trailer | Call of Duty: Warzone & Black Ops 7",
+    "channel": "Call of Duty",
+    "views": 157488,
     "region": "US"
    },
    {
-    "title": "I Lost My Mind In The Backrooms…",
-    "channel": "CaseOh",
-    "views": 507747,
+    "title": "NINTENDO DIRECT LIVE - ZELDA EDITION 🔴Full Stream🔴 (9-8)",
+    "channel": "Maximilian Dood",
+    "views": 372550,
     "region": "US"
    },
    {
-    "title": "NO YO PURPOSE",
-    "channel": "Rich Homie Quan - Topic",
-    "views": 42186,
+    "title": "Katy Perry - The One That Got Away (Lyrics)",
+    "channel": "Tearbluee",
+    "views": 363826,
     "region": "US"
    },
    {
-    "title": "Lanterns Episode 5 Trailer Breakdown & Easter Eggs",
-    "channel": "Emergency Awesome",
-    "views": 368619,
+    "title": "VILLAGER NEWS Add-On | Official Trailer",
+    "channel": "Element Animation",
+    "views": 119301,
     "region": "US"
    },
    {
-    "title": "The Legend of Zelda 40th Anniversary Direct – 08/09/2026",
-    "channel": "Nintendo UK",
-    "views": 296649,
+    "title": "The HUGE Zelda 40th Anniversary Nintendo Direct is HERE!",
+    "channel": "BeatEmUps",
+    "views": 287246,
+    "region": "US"
+   },
+   {
+    "title": "Mourning",
+    "channel": "Spiritbox - Topic",
+    "views": 45855,
+    "region": "US"
+   },
+   {
+    "title": "You Can See Everything - Official Teaser (2026) Nathan Fielder, Elizabeth Holmes",
+    "channel": "IGN Movie Trailers",
+    "views": 228200,
+    "region": "US"
+   },
+   {
+    "title": "Exploring Minecraft's Forgotten Dimension",
+    "channel": "Spoke",
+    "views": 2901640,
     "region": "US"
    },
    {
     "title": "RAYE, Amma, Absolutely - 'Joy.' (Official Video)",
     "channel": "RAYE",
-    "views": 932047,
+    "views": 950422,
     "region": "US"
    },
    {
-    "title": "You Can See Everything Teaser Trailer (2026)",
-    "channel": "Rotten Tomatoes Trailers",
-    "views": 150537,
+    "title": "Marvel’s Wolverine - “The Best There Is” Trailer | PS5 Games",
+    "channel": "PlayStation",
+    "views": 225274,
+    "region": "US"
+   },
+   {
+    "title": "I Pretended to be a BABY TRANSFORMER on ONE CHUNK!",
+    "channel": "Cash",
+    "views": 1042587,
+    "region": "US"
+   },
+   {
+    "title": "Jarahn x SHLD - Yu Les (Audio) feat. Nene Morus & Rich Antony ",
+    "channel": "Jarahn",
+    "views": 95042,
+    "region": "US"
+   },
+   {
+    "title": "Honest Trailers | The Prestige",
+    "channel": "Screen Junkies",
+    "views": 89069,
     "region": "US"
    },
    {
     "title": "I'm The Dog In A Horror Game?!",
     "channel": "Joe Bart Games",
-    "views": 132820,
+    "views": 146619,
     "region": "US"
    },
    {
-    "title": "Watermelon Moonshine",
-    "channel": "Lainey Wilson - Topic",
-    "views": 19589,
+    "title": "NO YO PURPOSE",
+    "channel": "Rich Homie Quan - Topic",
+    "views": 43264,
     "region": "US"
    },
    {
-    "title": "ARJUN MIGHT BE Interesting (SF6 Gameplay Trailer Reaction)",
-    "channel": "Punkdagod",
-    "views": 146087,
+    "title": "Lanterns Episode 5 Trailer Breakdown & Easter Eggs",
+    "channel": "Emergency Awesome",
+    "views": 372499,
     "region": "US"
    },
    {
-    "title": "This video will teach you How NOT To Fish",
-    "channel": "SMii7Y",
-    "views": 3225246,
+    "title": "I Lost My Mind In The Backrooms…",
+    "channel": "CaseOh",
+    "views": 515543,
     "region": "US"
    },
    {
     "title": "John Fogerty - Have You Ever Seen The Rain (Portuguese Lyric Video / Letra Em Português)",
     "channel": "John Fogerty",
-    "views": 155172,
+    "views": 165141,
+    "region": "US"
+   },
+   {
+    "title": "Godzilla Minus Zero Trailer #1 (2026)",
+    "channel": "Rotten Tomatoes Trailers",
+    "views": 64643,
+    "region": "US"
+   },
+   {
+    "title": "Zelda Ocarina of Time Looks Crazy...",
+    "channel": "Spawn Wave",
+    "views": 89821,
+    "region": "US"
+   },
+   {
+    "title": "Romeo Santos - Imitadora 💔 (Letra/Lyrics)",
+    "channel": "Octava Retro",
+    "views": 1131010,
+    "region": "US"
+   },
+   {
+    "title": "Zelda Direct and analyzing OoT remake footage",
+    "channel": "ZFG",
+    "views": 61815,
+    "region": "US"
+   },
+   {
+    "title": "WHY IS THIS GAME MORE FUNNY THAN SCARY?! (Halloween: The Game)",
+    "channel": "RDC Live",
+    "views": 87713,
+    "region": "US"
+   },
+   {
+    "title": "Watermelon Moonshine",
+    "channel": "Lainey Wilson - Topic",
+    "views": 20069,
+    "region": "US"
+   },
+   {
+    "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX | Reaction!",
+    "channel": "Tyrone Magnus",
+    "views": 22737,
+    "region": "US"
+   },
+   {
+    "title": "The Legend of Zelda 40th Anniversary Direct – 08/09/2026",
+    "channel": "Nintendo UK",
+    "views": 306379,
+    "region": "US"
+   },
+   {
+    "title": "PRESIDENT - Live From Rockfield Studios",
+    "channel": "PRESIDENT",
+    "views": 284471,
+    "region": "US"
+   },
+   {
+    "title": "ARJUN MIGHT BE Interesting (SF6 Gameplay Trailer Reaction)",
+    "channel": "Punkdagod",
+    "views": 147670,
+    "region": "US"
+   },
+   {
+    "title": "PROP HUNT",
+    "channel": "Flamingo",
+    "views": 433752,
+    "region": "US"
+   },
+   {
+    "title": "Kirk Franklin, Karen Clark-Sheard - Thank You For Everything (Live)",
+    "channel": "KirkFranklinVEVO",
+    "views": 11251,
     "region": "US"
    },
    {
@@ -3640,1003 +3659,949 @@
     "region": "US"
    },
    {
-    "title": "The Legend of Zelda Ocarina of Time Remake Extended Gameplay Demo",
-    "channel": "GamersPrey",
-    "views": 135331,
-    "region": "US"
-   },
-   {
-    "title": "PRESIDENT - Live From Rockfield Studios",
-    "channel": "PRESIDENT",
-    "views": 280097,
-    "region": "US"
-   },
-   {
-    "title": "LANTERNS Episode 5 Trailer Breakdown & DC Green Lantern Comic Easter Eggs | JOHN VS HAL",
-    "channel": "Heavy Spoilers",
-    "views": 175709,
-    "region": "US"
-   },
-   {
     "title": "Taking Potions TOO FAR in Animal Hospital Anomaly!",
     "channel": "Tyler & Snowi",
-    "views": 587529,
+    "views": 598132,
     "region": "US"
    },
    {
-    "title": "Te Recordaré",
-    "channel": "Release - Topic",
-    "views": 424723,
+    "title": "Lay Cold",
+    "channel": "Overgrown - Topic",
+    "views": 145171,
     "region": "US"
    },
    {
-    "title": "Growing with Ree & the Twins | Official Channel Trailer",
-    "channel": "Growing with Ree & the Twins",
-    "views": 6478,
-    "region": "US"
-   },
-   {
-    "title": "Monster Hunter Wilds: Ascendance - Sword & Shield | Boosted Action Breakdown",
-    "channel": "Monster Hunter",
-    "views": 551541,
-    "region": "US"
-   },
-   {
-    "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra)",
-    "channel": "Alligator Lyrics",
-    "views": 707085,
-    "region": "US"
-   },
-   {
-    "title": "GODZILLA Minus Zero TRAILER BREAKDOWN Scene by Scene: GHIDORAH? Evil Biologist & MORE!",
-    "channel": "World of Geekdom",
-    "views": 19919,
-    "region": "US"
-   },
-   {
-    "title": "The Legend of Zelda 40th Anniversary Nintendo Direct Livestream & Watch Party",
-    "channel": "IGN",
-    "views": 381813,
-    "region": "US"
-   },
-   {
-    "title": "Mark on Me",
-    "channel": "&TEAM - Topic",
-    "views": 102560,
-    "region": "US"
-   },
-   {
-    "title": "I cannot believe what Capcom did with Arjun in Street Fighter 6",
-    "channel": "More Brian_F",
-    "views": 97963,
+    "title": "AVENGERS DOOMSDAY FINAL TRAILER",
+    "channel": "Everything Always",
+    "views": 12539,
     "region": "US"
    },
    {
     "title": "LISA - SaWaDiKa (Official Music Video)",
     "channel": "LISAOfficialVEVO",
-    "views": 143813748,
+    "views": 143915706,
     "region": "NL"
    },
    {
     "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
     "channel": "Harry Potter",
-    "views": 7220762,
+    "views": 7232880,
     "region": "NL"
    },
    {
     "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
     "channel": "Nintendo of America",
-    "views": 3951296,
+    "views": 4091037,
     "region": "NL"
    },
    {
     "title": "MILEY - Bass Persuades (Official Video)",
     "channel": "MILEY",
-    "views": 7309776,
+    "views": 7341115,
     "region": "NL"
    },
    {
-    "title": "Band of Brothers: Legacy Trailer | HBO Max",
-    "channel": "HBO Max",
-    "views": 5760894,
-    "region": "NL"
-   },
-   {
-    "title": "Dus jij dacht dat GTA 6 jóuw game was?",
-    "channel": "NOS op 3",
-    "views": 404481,
-    "region": "NL"
-   },
-   {
-    "title": "Samuel Welten, Russo - BOEM! (Official Video)",
-    "channel": "Samuel Welten",
-    "views": 190369,
-    "region": "NL"
-   },
-   {
-    "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
-    "channel": "GODZILLA OFFICIAL by TOHO",
-    "views": 2754022,
+    "title": "Butcher's Blasphemy | Marvel Rivals Season 10 Trailer | Marvel Rivals",
+    "channel": "Marvel Rivals",
+    "views": 775759,
     "region": "NL"
    },
    {
     "title": "1000 Players Simulate Mining Prison in Minecraft",
     "channel": "Parrot",
-    "views": 6451623,
+    "views": 6463336,
+    "region": "NL"
+   },
+   {
+    "title": "Samuel Welten, Russo - BOEM! (Official Video)",
+    "channel": "Samuel Welten",
+    "views": 191124,
+    "region": "NL"
+   },
+   {
+    "title": "Band of Brothers: Legacy Trailer | HBO Max",
+    "channel": "HBO Max",
+    "views": 5768209,
+    "region": "NL"
+   },
+   {
+    "title": "Dus jij dacht dat GTA 6 jóuw game was?",
+    "channel": "NOS op 3",
+    "views": 405894,
     "region": "NL"
    },
    {
     "title": "JISOO - CLICK (Official MV)",
     "channel": "JISOO",
-    "views": 30174922,
+    "views": 30232001,
     "region": "NL"
    }
   ],
   "roblox_top_games": [
    {
     "name": "Steal An Egg",
-    "playing": 1101201,
+    "playing": 1133211,
     "sort": "Top Trending",
     "universe_id": 10563114921,
-    "up_votes": 1596437
+    "up_votes": 1597710
    },
    {
     "name": "Brookhaven 🏡RP",
-    "playing": 371670,
+    "playing": 381063,
     "sort": "Top Playing Now",
     "universe_id": 1686885941,
-    "up_votes": 8523890
-   },
-   {
-    "name": "[🧲] Blox Fruits",
-    "playing": 355169,
-    "sort": "Top Trending",
-    "universe_id": 994732206,
-    "up_votes": 12638335
-   },
-   {
-    "name": "Murder Mystery 2",
-    "playing": 245552,
-    "sort": "Top Playing Now",
-    "universe_id": 66654135,
-    "up_votes": 10541082
+    "up_votes": 8523972
    },
    {
     "name": "Steal a Brainrot",
-    "playing": 194561,
+    "playing": 292938,
     "sort": "Top Playing Now",
     "universe_id": 7709344486,
-    "up_votes": 15397111
+    "up_votes": 15397318
+   },
+   {
+    "name": "[🧲] Blox Fruits",
+    "playing": 292413,
+    "sort": "Top Trending",
+    "universe_id": 994732206,
+    "up_votes": 12638520
+   },
+   {
+    "name": "Murder Mystery 2",
+    "playing": 240886,
+    "sort": "Top Playing Now",
+    "universe_id": 66654135,
+    "up_votes": 10541320
    },
    {
     "name": "[😾] RIVALS",
-    "playing": 144558,
+    "playing": 150337,
     "sort": "Top Trending",
     "universe_id": 6035872082,
-    "up_votes": 10517610
+    "up_votes": 10517827
    },
    {
     "name": "[SKY ASSASSIN] Jujutsu Shenanigans",
-    "playing": 137279,
+    "playing": 144676,
     "sort": "Top Trending",
     "universe_id": 3508322461,
-    "up_votes": 2553410
+    "up_votes": 2553513
    },
    {
     "name": "[🏰] Adopt Me!",
-    "playing": 136214,
+    "playing": 130694,
     "sort": "Top Playing Now",
     "universe_id": 383310974,
-    "up_votes": 9430909
+    "up_votes": 9431013
    },
    {
     "name": "99 Nights in the Forest 🔦",
-    "playing": 120337,
+    "playing": 118952,
     "sort": "Top Playing Now",
     "universe_id": 7326934954,
-    "up_votes": 5350832
+    "up_votes": 5350911
    },
    {
     "name": "[🔥UPD] Fish It! 🐟",
-    "playing": 99948,
+    "playing": 99458,
     "sort": "Top Playing Now",
     "universe_id": 6701277882,
-    "up_votes": 1341246
+    "up_votes": 1341245
    },
    {
     "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
-    "playing": 99208,
+    "playing": 93820,
     "sort": "Top Playing Now",
     "universe_id": 9584852943,
-    "up_votes": 9626398
+    "up_votes": 9626668
    },
    {
     "name": "[2nd FLOOR] Animal Hospital (Anomaly) 🧪",
-    "playing": 89014,
+    "playing": 92659,
     "sort": "Top Playing Now",
     "universe_id": 10148749921,
-    "up_votes": 1252867
+    "up_votes": 1253018
    },
    {
     "name": "Fisch 🍉 [SKYCREST]",
-    "playing": 77499,
+    "playing": 77182,
     "sort": "Top Trending",
     "universe_id": 5750914919,
-    "up_votes": 2992246
-   },
-   {
-    "name": "[🎂] Dress To Impress",
-    "playing": 71842,
-    "sort": "Top Trending",
-    "universe_id": 5203828273,
-    "up_votes": 3965557
-   },
-   {
-    "name": "🕹️ [ARCADE] Pet Simulator 99! 💰",
-    "playing": 70732,
-    "sort": "Top Playing Now",
-    "universe_id": 3317771874,
-    "up_votes": 3062280
+    "up_votes": 2992289
    },
    {
     "name": "[🌌DUELS] Murderers VS Sheriffs",
-    "playing": 70690,
+    "playing": 74043,
     "sort": "Top Playing Now",
     "universe_id": 7219654364,
-    "up_votes": 243865
+    "up_votes": 243921
+   },
+   {
+    "name": "[🎂] Dress To Impress",
+    "playing": 71863,
+    "sort": "Top Trending",
+    "universe_id": 5203828273,
+    "up_votes": 3965653
+   },
+   {
+    "name": "🕹️ [ARCADE] Pet Simulator 99! 💰",
+    "playing": 69622,
+    "sort": "Top Playing Now",
+    "universe_id": 3317771874,
+    "up_votes": 3062287
    },
    {
     "name": "Catalog Avatar Creator",
-    "playing": 63079,
+    "playing": 64608,
     "sort": "Top Playing Now",
     "universe_id": 2711375305,
-    "up_votes": 2969818
+    "up_votes": 2969894
    },
    {
     "name": "[WEEK 2 ⛱️] Forsaken",
-    "playing": 53819,
+    "playing": 58423,
     "sort": "Top Playing Now",
     "universe_id": 6331902150,
-    "up_votes": 2364201
-   },
-   {
-    "name": "[🌘] Anime Expeditions ",
-    "playing": 45577,
-    "sort": "Top Trending",
-    "universe_id": 7613921865,
-    "up_votes": 266772
+    "up_votes": 2364228
    },
    {
     "name": "🎂Flee the Facility🎪",
-    "playing": 45393,
+    "playing": 49701,
     "sort": "Top Trending",
     "universe_id": 372226183,
-    "up_votes": 2782547
+    "up_votes": 2782612
    },
    {
     "name": "DOORS 👔",
-    "playing": 45261,
+    "playing": 45424,
     "sort": "Top Trending",
     "universe_id": 2440500124,
-    "up_votes": 4660008
+    "up_votes": 4660060
+   },
+   {
+    "name": "[🌘] Anime Expeditions ",
+    "playing": 44535,
+    "sort": "Top Trending",
+    "universe_id": 7613921865,
+    "up_votes": 266786
    },
    {
     "name": "[👽] Search For The Needle",
-    "playing": 44111,
+    "playing": 43675,
     "sort": "Top Trending",
     "universe_id": 10756011174,
-    "up_votes": 75467
+    "up_votes": 75899
    },
    {
     "name": "The Strongest Battlegrounds",
-    "playing": 42498,
+    "playing": 43473,
     "sort": "Top Playing Now",
     "universe_id": 3808081382,
-    "up_votes": 5278891
-   },
-   {
-    "name": "Sol's RNG [ Summer Event 🏖️]",
-    "playing": 41899,
-    "sort": "Top Trending",
-    "universe_id": 5361032378,
-    "up_votes": 1412375
+    "up_votes": 5278923
    },
    {
     "name": "Berry Avenue 🏠 RP",
-    "playing": 40441,
+    "playing": 42144,
     "sort": "Top Playing Now",
     "universe_id": 3240075297,
-    "up_votes": 1132733
+    "up_votes": 1132744
+   },
+   {
+    "name": "Sol's RNG [ Summer Event 🏖️]",
+    "playing": 41343,
+    "sort": "Top Trending",
+    "universe_id": 5361032378,
+    "up_votes": 1412386
    },
    {
     "name": "LifeTogether 🏠 RP",
-    "playing": 37076,
+    "playing": 39969,
     "sort": "Fun with Friends",
     "universe_id": 4839802560,
-    "up_votes": 929343
+    "up_votes": 929373
    },
    {
     "name": "Driving Empire [DODGE UPDATE✨] ",
-    "playing": 30201,
+    "playing": 30228,
     "sort": "Top Trending",
     "universe_id": 1202096104,
-    "up_votes": 2515047
+    "up_votes": 2515075
    },
    {
     "name": "[REPLAYS!] Illegal Soccer",
-    "playing": 26326,
+    "playing": 27618,
     "sort": "Top Trending",
     "universe_id": 10155360168,
-    "up_votes": 21465
-   },
-   {
-    "name": "[CURE] Violence District",
-    "playing": 24165,
-    "sort": "Fun with Friends",
-    "universe_id": 6739698191,
-    "up_votes": 723529
+    "up_votes": 21521
    },
    {
     "name": "+1 Tongue Escape 😛",
-    "playing": 23896,
+    "playing": 24737,
     "sort": "Up-and-Coming",
     "universe_id": 10681914462,
-    "up_votes": 14943
+    "up_votes": 15177
+   },
+   {
+    "name": "[CURE] Violence District",
+    "playing": 22699,
+    "sort": "Fun with Friends",
+    "universe_id": 6739698191,
+    "up_votes": 723549
    },
    {
     "name": "Jump for Animals!",
-    "playing": 21293,
+    "playing": 21754,
     "sort": "Up-and-Coming",
     "universe_id": 10690360998,
-    "up_votes": 33137
-   },
-   {
-    "name": "[🐆LEOPARD🐆] Grand Piece Online",
-    "playing": 18717,
-    "sort": "Top Revisited",
-    "universe_id": 648454481,
-    "up_votes": 1066513
+    "up_votes": 33232
    },
    {
     "name": "Scream And Run ",
-    "playing": 17293,
+    "playing": 19445,
     "sort": "Top Trending",
     "universe_id": 10761687472,
-    "up_votes": 15376
+    "up_votes": 15455
+   },
+   {
+    "name": "[🐆LEOPARD🐆] Grand Piece Online",
+    "playing": 18417,
+    "sort": "Top Revisited",
+    "universe_id": 648454481,
+    "up_votes": 1066520
    },
    {
     "name": "🛍️ My Avatar!",
-    "playing": 14732,
+    "playing": 15628,
     "sort": "Fun with Friends",
     "universe_id": 7554119808,
-    "up_votes": 140235
+    "up_votes": 140264
    },
    {
     "name": "[🎉UPD 3] Anime Dice",
-    "playing": 14507,
+    "playing": 13978,
     "sort": "Up-and-Coming",
     "universe_id": 10708913337,
-    "up_votes": 61467
+    "up_votes": 61703
    },
    {
     "name": "Grand Blue [Early Access]",
-    "playing": 13440,
+    "playing": 13380,
     "sort": "Top Trending",
     "universe_id": 6215986499,
-    "up_votes": 200125
+    "up_votes": 200443
    },
    {
     "name": "[💎] Sell Ores ⛏️",
-    "playing": 13194,
+    "playing": 12937,
     "sort": "Top Trending",
     "universe_id": 10336278580,
-    "up_votes": 217060
+    "up_votes": 217281
    },
    {
     "name": "Last Stop [Beta]",
-    "playing": 12583,
+    "playing": 12809,
     "sort": "Up-and-Coming",
     "universe_id": 10759337137,
-    "up_votes": 24010
+    "up_votes": 24156
    },
    {
     "name": "[🌱QOL] Azure Latch",
-    "playing": 11406,
+    "playing": 11943,
     "sort": "Fun with Friends",
     "universe_id": 6945584306,
-    "up_votes": 1598016
-   },
-   {
-    "name": "[NEW] Murder Duels",
-    "playing": 10587,
-    "sort": "Top Trending",
-    "universe_id": 9561553764,
-    "up_votes": 220800
+    "up_votes": 1598031
    },
    {
     "name": "Pull An Egg",
-    "playing": 10523,
+    "playing": 10828,
     "sort": "Up-and-Coming",
     "universe_id": 10649255304,
-    "up_votes": 4447
+    "up_votes": 4465
    },
    {
-    "name": "🌌 Agartha 🌌 Mog or Die ",
-    "playing": 8699,
+    "name": "[NEW] Murder Duels",
+    "playing": 10522,
     "sort": "Top Trending",
-    "universe_id": 10571722689,
-    "up_votes": 60737
+    "universe_id": 9561553764,
+    "up_votes": 220868
    },
    {
     "name": "The Locust of MM2 [ORIGINAL]",
-    "playing": 8230,
+    "playing": 8479,
     "sort": "Up-and-Coming",
     "universe_id": 10764415270,
-    "up_votes": 2459
-   },
-   {
-    "name": "[🗡️UPD 4.0🟠] Anime Squadron",
-    "playing": 7871,
-    "sort": "Top Revisited",
-    "universe_id": 8356066619,
-    "up_votes": 86986
-   },
-   {
-    "name": "Steal a Chicken",
-    "playing": 7869,
-    "sort": "Up-and-Coming",
-    "universe_id": 10694549945,
-    "up_votes": 9067
+    "up_votes": 2488
    },
    {
     "name": "💀Jump To Steal SCP Monsters!💀",
-    "playing": 7803,
+    "playing": 8259,
     "sort": "Up-and-Coming",
     "universe_id": 10683945170,
-    "up_votes": 5271
+    "up_votes": 5300
    },
    {
-    "name": "Stream A Cheese Pull!",
-    "playing": 7201,
+    "name": "Steal a Chicken",
+    "playing": 7868,
     "sort": "Up-and-Coming",
-    "universe_id": 10628907188,
-    "up_votes": 30775
+    "universe_id": 10694549945,
+    "up_votes": 9121
+   },
+   {
+    "name": "[🗡️UPD 4.0🟠] Anime Squadron",
+    "playing": 7754,
+    "sort": "Top Revisited",
+    "universe_id": 8356066619,
+    "up_votes": 86988
+   },
+   {
+    "name": "🌌 Agartha 🌌 Mog or Die ",
+    "playing": 7632,
+    "sort": "Top Trending",
+    "universe_id": 10571722689,
+    "up_votes": 60881
    },
    {
     "name": "Baddies 💅",
-    "playing": 6861,
+    "playing": 7574,
     "sort": "Fun with Friends",
     "universe_id": 3990106548,
-    "up_votes": 473074
+    "up_votes": 473082
    },
    {
-    "name": "Build and Defend Your Raft",
-    "playing": 6282,
+    "name": "+1 Long Arm Toy Escape!",
+    "playing": 7475,
     "sort": "Up-and-Coming",
-    "universe_id": 10588977897,
-    "up_votes": 20918
+    "universe_id": 10700505394,
+    "up_votes": 80814
    },
    {
-    "name": "[NEW SNIPER] Sniper Arena",
-    "playing": 6259,
-    "sort": "Top Trending",
-    "universe_id": 9534705677,
-    "up_votes": 251587
+    "name": "Stream A Cheese Pull!",
+    "playing": 7150,
+    "sort": "Up-and-Coming",
+    "universe_id": 10628907188,
+    "up_votes": 30840
    },
    {
     "name": "MONOCHROME👁️",
-    "playing": 6194,
+    "playing": 6356,
     "sort": "Top Trending",
     "universe_id": 10624691669,
-    "up_votes": 5955
+    "up_votes": 6040
    },
    {
-    "name": "Cold War [WEATHER & MINIMAP]",
-    "playing": 6171,
-    "sort": "Top Trending",
-    "universe_id": 4750561026,
-    "up_votes": 96678
+    "name": "Build and Defend Your Raft",
+    "playing": 6064,
+    "sort": "Up-and-Coming",
+    "universe_id": 10588977897,
+    "up_votes": 20962
    },
    {
     "name": "[ 🪄🎩] Anime Card Clash",
-    "playing": 6105,
+    "playing": 6050,
     "sort": "Top Revisited",
     "universe_id": 6682487255,
-    "up_votes": 425067
+    "up_votes": 425068
    },
    {
     "name": "ABA",
-    "playing": 6055,
+    "playing": 6043,
     "sort": "Top Revisited",
     "universe_id": 578392296,
-    "up_votes": 508074
+    "up_votes": 508078
+   },
+   {
+    "name": "Cold War [WEATHER & MINIMAP]",
+    "playing": 5924,
+    "sort": "Top Trending",
+    "universe_id": 4750561026,
+    "up_votes": 96748
+   },
+   {
+    "name": "[NEW SNIPER] Sniper Arena",
+    "playing": 5837,
+    "sort": "Top Trending",
+    "universe_id": 9534705677,
+    "up_votes": 251633
    },
    {
     "name": "[GANGS REWORK] Ryujin",
-    "playing": 5687,
+    "playing": 5658,
     "sort": "Fun with Friends",
     "universe_id": 6385532960,
-    "up_votes": 45792
-   },
-   {
-    "name": "Military Army Tycoon [GAZ Tiger]",
-    "playing": 5552,
-    "sort": "Up-and-Coming",
-    "universe_id": 10698216738,
-    "up_votes": 53125
+    "up_votes": 45801
    },
    {
     "name": "3008 [2.74]",
-    "playing": 5517,
+    "playing": 5613,
     "sort": "Fun with Friends",
     "universe_id": 1000233041,
-    "up_votes": 1998398
-   },
-   {
-    "name": "[🏭] Rebirth Champions: Ultimate",
-    "playing": 5469,
-    "sort": "Fun with Friends",
-    "universe_id": 7178032757,
-    "up_votes": 231444
-   },
-   {
-    "name": "[OG] All Star Tower Defense",
-    "playing": 5226,
-    "sort": "Top Revisited",
-    "universe_id": 1720936166,
-    "up_votes": 1492695
+    "up_votes": 1998408
    },
    {
     "name": "Ball VS Ball",
-    "playing": 5192,
+    "playing": 5458,
     "sort": "Up-and-Coming",
     "universe_id": 10685282333,
-    "up_votes": 26684
+    "up_votes": 26729
+   },
+   {
+    "name": "[🏭] Rebirth Champions: Ultimate",
+    "playing": 5406,
+    "sort": "Fun with Friends",
+    "universe_id": 7178032757,
+    "up_votes": 231447
+   },
+   {
+    "name": "Military Army Tycoon [GAZ Tiger]",
+    "playing": 5375,
+    "sort": "Up-and-Coming",
+    "universe_id": 10698216738,
+    "up_votes": 53238
+   },
+   {
+    "name": "[OG] All Star Tower Defense",
+    "playing": 5333,
+    "sort": "Top Revisited",
+    "universe_id": 1720936166,
+    "up_votes": 1492703
    },
    {
     "name": " [🎉] The Veil",
-    "playing": 5105,
+    "playing": 5097,
     "sort": "Fun with Friends",
     "universe_id": 7970033072,
-    "up_votes": 49716
+    "up_votes": 49875
    },
    {
     "name": "Finish It! 🛠️",
-    "playing": 5018,
+    "playing": 4811,
     "sort": "Up-and-Coming",
     "universe_id": 10662463285,
-    "up_votes": 7635
+    "up_votes": 7662
    },
    {
     "name": "Merge & Dig Simulator!",
-    "playing": 4471,
+    "playing": 4529,
     "sort": "Up-and-Coming",
     "universe_id": 10632524471,
-    "up_votes": 14963
+    "up_votes": 14999
    },
    {
     "name": "[UPD] Unseen Liminality",
-    "playing": 4386,
+    "playing": 4520,
     "sort": "Fun with Friends",
     "universe_id": 9885372266,
-    "up_votes": 132773
-   },
-   {
-    "name": "2 PLAYER Evolution Tycoon 🛸",
-    "playing": 4365,
-    "sort": "Fun with Friends",
-    "universe_id": 10471583973,
-    "up_votes": 36329
+    "up_votes": 132796
    },
    {
     "name": "[UPDATE] The Locust's Manor",
-    "playing": 3978,
+    "playing": 4259,
     "sort": "Up-and-Coming",
     "universe_id": 10674300622,
-    "up_votes": 15832
+    "up_votes": 15865
    },
    {
-    "name": "Carry the Glass Together! [2 Player Obby]",
-    "playing": 3654,
+    "name": "2 PLAYER Evolution Tycoon 🛸",
+    "playing": 4217,
     "sort": "Fun with Friends",
-    "universe_id": 10415694629,
-    "up_votes": 2454
+    "universe_id": 10471583973,
+    "up_votes": 36335
    },
    {
     "name": "The Classic Soccer",
-    "playing": 3571,
+    "playing": 4134,
     "sort": "Top Revisited",
     "universe_id": 4743794878,
-    "up_votes": 25110
+    "up_votes": 25111
+   },
+   {
+    "name": "Carry the Glass Together! [2 Player Obby]",
+    "playing": 3612,
+    "sort": "Fun with Friends",
+    "universe_id": 10415694629,
+    "up_votes": 2470
    },
    {
     "name": "Bumpy Flight 🛫",
-    "playing": 3314,
+    "playing": 3217,
     "sort": "Up-and-Coming",
     "universe_id": 10546705891,
-    "up_votes": 39045
+    "up_votes": 39084
+   },
+   {
+    "name": "Needle In A Haystack",
+    "playing": 3140,
+    "sort": "Up-and-Coming",
+    "universe_id": 10761200080,
+    "up_votes": 20849
    },
    {
     "name": "Collect All Pets!",
-    "playing": 3063,
+    "playing": 3041,
     "sort": "Fun with Friends",
     "universe_id": 3359505957,
     "up_votes": 126078
    },
    {
     "name": "Street Life Remastered 🔥",
-    "playing": 2977,
+    "playing": 3030,
     "sort": "Fun with Friends",
     "universe_id": 6726637224,
-    "up_votes": 164028
-   },
-   {
-    "name": "Needle In A Haystack",
-    "playing": 2976,
-    "sort": "Up-and-Coming",
-    "universe_id": 10761200080,
-    "up_votes": 20759
+    "up_votes": 164029
    },
    {
     "name": "Arsenal",
-    "playing": 2807,
+    "playing": 2925,
     "sort": "Top Trending",
     "universe_id": 111958650,
-    "up_votes": 5121061
-   },
-   {
-    "name": "[🐢] Bloodlines",
-    "playing": 2512,
-    "sort": "Top Revisited",
-    "universe_id": 1946714362,
-    "up_votes": 43377
+    "up_votes": 5121066
    },
    {
     "name": "Football Fusion 3",
-    "playing": 2473,
+    "playing": 2618,
     "sort": "Fun with Friends",
     "universe_id": 9908641400,
-    "up_votes": 31816
+    "up_votes": 31821
    },
    {
     "name": "[200% Parasit] Toilet Verse Tower Defense",
-    "playing": 2370,
+    "playing": 2580,
     "sort": "Top Revisited",
     "universe_id": 5371127625,
-    "up_votes": 41135
+    "up_votes": 41142
+   },
+   {
+    "name": "[🐢] Bloodlines",
+    "playing": 2528,
+    "sort": "Top Revisited",
+    "universe_id": 1946714362,
+    "up_votes": 43378
    },
    {
     "name": "San Aurie",
-    "playing": 2312,
+    "playing": 2337,
     "sort": "Fun with Friends",
     "universe_id": 6619936488,
-    "up_votes": 36446
+    "up_votes": 36456
    },
    {
     "name": "[UPD] 💥 BUCKSHOT",
-    "playing": 2262,
+    "playing": 2296,
     "sort": "Fun with Friends",
     "universe_id": 5580972377,
-    "up_votes": 672620
+    "up_votes": 672645
    },
    {
     "name": "🌋How to Really Fish",
-    "playing": 2259,
+    "playing": 2246,
     "sort": "Up-and-Coming",
     "universe_id": 10758034175,
-    "up_votes": 2172
+    "up_votes": 2191
    },
    {
     "name": "Da Hood",
-    "playing": 2140,
+    "playing": 2080,
     "sort": "Fun with Friends",
     "universe_id": 1008451066,
-    "up_votes": 1295597
+    "up_votes": 1295600
    },
    {
     "name": "TTK Testing [HARDPOINT]",
-    "playing": 2055,
+    "playing": 2022,
     "sort": "Top Trending",
     "universe_id": 10090256806,
-    "up_votes": 164457
+    "up_votes": 164477
    },
    {
     "name": "Grave/Digger",
-    "playing": 1938,
+    "playing": 2013,
     "sort": "Top Revisited",
     "universe_id": 6190071862,
-    "up_votes": 80917
+    "up_votes": 80918
    },
    {
     "name": "🎲Roll A Pack!",
-    "playing": 1780,
+    "playing": 1790,
     "sort": "Fun with Friends",
     "universe_id": 10364552556,
-    "up_votes": 22459
-   },
-   {
-    "name": "MM2 of The Locust [Testing]",
-    "playing": 1704,
-    "sort": "Up-and-Coming",
-    "universe_id": 10765121931,
-    "up_votes": 1347
+    "up_votes": 22463
    },
    {
     "name": "[UPD] Bloxrooms",
-    "playing": 1687,
+    "playing": 1746,
     "sort": "Up-and-Coming",
     "universe_id": 10605173611,
-    "up_votes": 6455
-   },
-   {
-    "name": "Overhang",
-    "playing": 1661,
-    "sort": "Top Trending",
-    "universe_id": 9878210988,
-    "up_votes": 10575
-   },
-   {
-    "name": "[MTC] Multicrew Tank Combat",
-    "playing": 1603,
-    "sort": "Fun with Friends",
-    "universe_id": 7414497778,
-    "up_votes": 68782
+    "up_votes": 6490
    },
    {
     "name": "[HARD MODE] Journey to the Watchtower",
-    "playing": 1468,
+    "playing": 1553,
     "sort": "Up-and-Coming",
     "universe_id": 10694025593,
-    "up_votes": 18292
+    "up_votes": 18400
+   },
+   {
+    "name": "Overhang",
+    "playing": 1549,
+    "sort": "Top Trending",
+    "universe_id": 9878210988,
+    "up_votes": 10613
+   },
+   {
+    "name": "[MTC] Multicrew Tank Combat",
+    "playing": 1354,
+    "sort": "Fun with Friends",
+    "universe_id": 7414497778,
+    "up_votes": 68785
    },
    {
     "name": "[🤍] Chiidoku",
-    "playing": 1250,
+    "playing": 1300,
     "sort": "Up-and-Coming",
     "universe_id": 10628006421,
-    "up_votes": 10224
+    "up_votes": 10233
    },
    {
     "name": "WEST WOOD: REMAKE [BETA]",
-    "playing": 1210,
+    "playing": 1266,
     "sort": "Fun with Friends",
     "universe_id": 10598641427,
-    "up_votes": 13713
+    "up_votes": 13725
    },
    {
     "name": "[King Crimson] Sakura Stand",
-    "playing": 1075,
+    "playing": 1059,
     "sort": "Top Revisited",
     "universe_id": 3256689155,
-    "up_votes": 160351
+    "up_votes": 160352
    },
    {
     "name": "[UPD] Jurassic Pixel",
-    "playing": 1044,
+    "playing": 1043,
     "sort": "Top Revisited",
     "universe_id": 7396714471,
-    "up_votes": 14048
+    "up_votes": 14054
    },
    {
     "name": "[🚁HELI] Fallen Survival🏹",
-    "playing": 881,
+    "playing": 854,
     "sort": "Top Revisited",
     "universe_id": 3747388906,
     "up_votes": 46071
    },
    {
     "name": "KLASE",
-    "playing": 719,
+    "playing": 735,
     "sort": "Fun with Friends",
     "universe_id": 6949043989,
-    "up_votes": 3228
+    "up_votes": 3229
    },
    {
     "name": "[JUNGLE UPDATE] Clover Retribution",
-    "playing": 635,
+    "playing": 607,
     "sort": "Top Revisited",
     "universe_id": 3936365689,
-    "up_votes": 201570
+    "up_votes": 201572
    },
    {
     "name": "🌎WORLD 3!🌎 Legends Re:Written",
-    "playing": 423,
+    "playing": 439,
     "sort": "Top Revisited",
     "universe_id": 2270890905,
-    "up_votes": 101069
-   },
-   {
-    "name": "RF Fan Leagues",
-    "playing": 242,
-    "sort": "Top Revisited",
-    "universe_id": 8824087733,
-    "up_votes": 3904
+    "up_votes": 101070
    },
    {
     "name": "VEF",
-    "playing": 219,
+    "playing": 272,
     "sort": "Top Revisited",
     "universe_id": 9865604662,
     "up_votes": 1013
+   },
+   {
+    "name": "RF Fan Leagues",
+    "playing": 266,
+    "sort": "Top Revisited",
+    "universe_id": 8824087733,
+    "up_votes": 3904
    }
   ],
   "roblox_catalog": [
    {
-    "name": "Good Boy Dance",
+    "name": "Western Cowboy Hat",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 105
+   },
+   {
+    "name": "alt y2k messy straight pigtails in cyan",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "alt y2k messy straight pigtails in teal",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 1,
+    "price": 65
+   },
+   {
+    "name": "hirono pot",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 1000000054
+   },
+   {
+    "name": "alt y2k messy straight pigtails in blue",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "alt y2k messy straight pigtails in light blue",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "Y2K Sporty Cross Baby Tee - White",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "alt y2k messy straight pigtails in greyish blue",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "alt y2k messy straight pigtails in dark purple",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "Kubics Helicopter Bird",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 2,
+    "price": 0
+   },
+   {
+    "name": "1.0 Pastel Goth Bat Eyeball Purse Halloween",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 55
    },
    {
-    "name": "Endless Aura Floating",
+    "name": "alt y2k messy straight pigtails in light purple",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
-    "price": 55
+    "price": 65
    },
    {
-    "name": "Commander Pose",
+    "name": "alt y2k messy straight pigtails in hot pink ",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
-    "price": 55
+    "price": 65
    },
    {
-    "name": "Basketball Dribbling Head",
+    "name": "alt y2k messy straight pigtails in pink",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
-    "price": 55
+    "price": 65
    },
    {
-    "name": " Pink jirai kei heart head piece with lace ruffles",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 95
-   },
-   {
-    "name": "✿ ︵ lins daughter ˚ 𝜗𝜚 ｡˚",
+    "name": "｡ ley ♡ ｡˚",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 0
    },
    {
-    "name": "Miku Avatar 1.0",
+    "name": "alt y2k messy straight pigtails in pastel pink",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
-    "price": 115
+    "price": 65
    },
    {
-    "name": "Miyamura & Kyouko Hori HORIMIYA | Thinking Bubble ",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 11,
-    "price": 55
-   },
-   {
-    "name": "Kazehaya & Sawako KIMI NI TODOKE | Thinking Bubble",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 11,
-    "price": 55
-   },
-   {
-    "name": "Kyouko Hori & Miyamura HORIMIYA | Thinking Bubble ",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 11,
-    "price": 55
-   },
-   {
-    "name": "Mini Golden Freddy Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 115
-   },
-   {
-    "name": "Gray Armor right Arm",
+    "name": "3.0 Pastel Goth Bat Eyeball Purse Halloween",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 55
    },
    {
-    "name": "Left Gray Armor Arm",
+    "name": "alt y2k messy straight pigtails in red",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
-    "price": 55
+    "price": 65
    },
    {
-    "name": "star plat face",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 90
-   },
-   {
-    "name": "Black and Orange Fluffy Fox Ears",
+    "name": "2000s Britney Airplane Costume in Pink",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 1,
-    "price": 95
+    "price": 120
    },
    {
-    "name": "Cute Springtrap Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 115
-   },
-   {
-    "name": "Cartoony Galaxy Cat Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 60
-   },
-   {
-    "name": "Red Cartoony Galaxy Cat Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 60
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Rainbow)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "Green Cartoony Galaxy Cat Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 60
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Yellow)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Gray)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "Blue Cartoony Galaxy Cat Suit",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 60
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Galaxy Purple)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Purple)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "Wispy Flowy Cat Ears Hair (Dark Green)",
-    "variant": "alles_recent_bijgewerkt",
-    "favorite_count": 0,
-    "price": 65
-   },
-   {
-    "name": "jersey club remixs dance",
+    "name": "Pickle Rick Dance (Rick & Morty)",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 55
    },
    {
-    "name": "Wispy Flowy Cat Ears Hair (Green)",
+    "name": "alt y2k messy straight pigtails in ginger",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 65
    },
    {
-    "name": "Wispy Flowy Cat Ears Hair (Green)",
+    "name": "｡ ley♡ ｡˚",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 0
+   },
+   {
+    "name": "alt y2k messy straight pigtails in yellow",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 65
    },
    {
-    "name": "Wispy Flowy Cat Ears Hair (Ocean Blue)",
+    "name": "2000s Britney Airplane Costume",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 3,
+    "price": 120
+   },
+   {
+    "name": "alt y2k messy straight pigtails in blonde",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "Celni Sprava Patch JPC 2.0",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 140
+   },
+   {
+    "name": "Marshmallow Cute Bounce",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 1,
+    "price": 300
+   },
+   {
+    "name": "alt y2k messy straight pigtails in light brown",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 65
+   },
+   {
+    "name": "Car Transformation Animation Pack Cute",
+    "variant": "alles_recent_bijgewerkt",
+    "favorite_count": 0,
+    "price": 300
+   },
+   {
+    "name": "alt y2k messy straight pigtails in brown",
     "variant": "alles_recent_bijgewerkt",
     "favorite_count": 0,
     "price": 65
@@ -4645,7 +4610,7 @@
   "devforum_topics": [
    {
     "title": "[Studio Beta] Upgraded UI Gradients",
-    "views": 5681,
+    "views": 5691,
     "replies": 21,
     "tags": [
      "studio",
@@ -4656,7 +4621,7 @@
    },
    {
     "title": "[Full Release] Enhanced Freecam Capabilities",
-    "views": 5364,
+    "views": 5373,
     "replies": 11,
     "tags": [
      "studio",
@@ -4666,7 +4631,7 @@
    },
    {
     "title": "[Full Release] Create and Sell Emissive Items on Marketplace",
-    "views": 7229,
+    "views": 7242,
     "replies": 23,
     "tags": [
      "studio",
@@ -4676,7 +4641,7 @@
    },
    {
     "title": "Expanding WorldModel Simulation Capabilities: Support for Collision Groups",
-    "views": 4162,
+    "views": 4176,
     "replies": 8,
     "tags": [
      "studio",
@@ -4685,7 +4650,7 @@
    },
    {
     "title": "[Full Release] Asset Manager With Folders, Search, and More",
-    "views": 3488,
+    "views": 3497,
     "replies": 19,
     "tags": [
      "studio",
@@ -4694,8 +4659,8 @@
    },
    {
     "title": "Analytics: Custom Dashboards to Save, Organize and Share Custom Charts",
-    "views": 2275,
-    "replies": 4,
+    "views": 2278,
+    "replies": 5,
     "tags": [
      "featured",
      "analytics"
@@ -4703,7 +4668,7 @@
    },
    {
     "title": "Auto-Generate Publish Notes for Easier Version Control",
-    "views": 2097,
+    "views": 2098,
     "replies": 11,
     "tags": [
      "studio"
@@ -4711,7 +4676,7 @@
    },
    {
     "title": "Advanced ViewportFrames",
-    "views": 598,
+    "views": 599,
     "replies": 8,
     "tags": [
      "scripting",
@@ -4721,7 +4686,7 @@
    },
    {
     "title": "Upcoming Friends List API Access Changes for Australian Users Under 16",
-    "views": 2565,
+    "views": 2575,
     "replies": 14,
     "tags": [
      "social",
@@ -4730,7 +4695,7 @@
    },
    {
     "title": "Weekly Recap: August 31 - September 4, 2026 | Emissive Items and Enhanced Freecam",
-    "views": 4180,
+    "views": 4201,
     "replies": 1,
     "tags": [
      "featured",
@@ -4739,7 +4704,7 @@
    },
    {
     "title": "We could not open the place [95206881]. Failed to fetch place info.",
-    "views": 2279,
+    "views": 2286,
     "replies": 2,
     "tags": [
      "bug",
@@ -4757,13 +4722,13 @@
    },
    {
     "title": "Release Notes for 737",
-    "views": 2164,
+    "views": 2171,
     "replies": 1,
     "tags": []
    },
    {
     "title": "Cannot open place [72971051024673] - \"Failed to fetch place info\" error",
-    "views": 1075,
+    "views": 1077,
     "replies": 1,
     "tags": [
      "bug",
@@ -4772,7 +4737,7 @@
    },
    {
     "title": "We could not open the place [95206881]. Failed to fetch place info",
-    "views": 1629,
+    "views": 1634,
     "replies": 3,
     "tags": [
      "bug",
@@ -4787,7 +4752,7 @@
    },
    {
     "title": "Demolishing Wallhacks on Roblox: Potentially Visible Sets & Raycasts",
-    "views": 629,
+    "views": 630,
     "replies": 6,
     "tags": [
      "scripting",
@@ -4798,7 +4763,7 @@
    },
    {
     "title": "Over 3m robux lost, support needed immediately",
-    "views": 301,
+    "views": 302,
     "replies": 4,
     "tags": []
    },
@@ -4813,7 +4778,7 @@
    },
    {
     "title": "People abusing flawed Fraud moderation system to falsely terminate people, resulting in false and unappealable bans",
-    "views": 693,
+    "views": 718,
     "replies": 0,
     "tags": [
      "bug",
@@ -4822,7 +4787,7 @@
    },
    {
     "title": "UGC Emote Upload Fails With “Missing a Valid UGC Emote Marker”",
-    "views": 625,
+    "views": 628,
     "replies": 8,
     "tags": [
      "bug",
@@ -4848,7 +4813,7 @@
    },
    {
     "title": "Meshie - Mesh Editor Plugin for Studio (Preview Release)",
-    "views": 318,
+    "views": 320,
     "replies": 54,
     "tags": [
      "studio",
@@ -4860,7 +4825,7 @@
    },
    {
     "title": "Random advanced gamedev math n physics stuff",
-    "views": 344,
+    "views": 345,
     "replies": 7,
     "tags": [
      "scripting",
@@ -4870,7 +4835,7 @@
    },
    {
     "title": "Vague Automated Ban (Reason: Other) with No Evidence Provided & Appeal Button Bug",
-    "views": 365,
+    "views": 369,
     "replies": 13,
     "tags": [
      "bug",
@@ -4897,7 +4862,7 @@
    },
    {
     "title": "URGENT: Scammed in $130,000 Transaction Involving My Roblox Game — Request for Assistance",
-    "views": 543,
+    "views": 548,
     "replies": 19,
     "tags": []
    },
@@ -4911,8 +4876,124 @@
     ]
    },
    {
+    "title": "Help fix this 1 error my friend is having with this 1 emote; Is anyone else having this error",
+    "views": 2,
+    "replies": 0,
+    "tags": [
+     "help",
+     "bug"
+    ]
+   },
+   {
+    "title": "[Studio Beta] Auto-Reimport: Automatically Reimport External Files on Changes",
+    "views": 120,
+    "replies": 0,
+    "tags": [
+     "studio",
+     "beta"
+    ]
+   },
+   {
+    "title": "How to Minimize light rendering problem",
+    "views": 63,
+    "replies": 0,
+    "tags": [
+     "studio"
+    ]
+   },
+   {
+    "title": "Creating an outline/edge shader",
+    "views": 4594,
+    "replies": 34,
+    "tags": []
+   },
+   {
+    "title": "Please make game video uploads less painful",
+    "views": 56,
+    "replies": 2,
+    "tags": []
+   },
+   {
+    "title": "Unioning Part Resulting it Dislining or misplaceing",
+    "views": 78,
+    "replies": 2,
+    "tags": [
+     "bug",
+     "building-bug"
+    ]
+   },
+   {
+    "title": "False ban ( automated moderation system ) (repost)",
+    "views": 278,
+    "replies": 2,
+    "tags": []
+   },
+   {
+    "title": "Unable to load games/templates",
+    "views": 11,
+    "replies": 0,
+    "tags": [
+     "bug",
+     "other-bug"
+    ]
+   },
+   {
+    "title": "Analytics: Custom Dashboards to Save, Organize and Share Custom Charts",
+    "views": 2278,
+    "replies": 5,
+    "tags": [
+     "featured",
+     "analytics"
+    ]
+   },
+   {
+    "title": "Random stuff disappears. Whether obby levels ( locked so it can't be accidental click ) or lighting / skybox.",
+    "views": 118,
+    "replies": 4,
+    "tags": [
+     "bug",
+     "other-bug"
+    ]
+   },
+   {
+    "title": "Highly Engaged Player Threshold Drops to 250",
+    "views": 8589,
+    "replies": 53,
+    "tags": [
+     "studio",
+     "featured"
+    ]
+   },
+   {
+    "title": "Building while in a Team Create with 2+ users is incredibly buggy and can cause irreversible damage to models.",
+    "views": 60,
+    "replies": 0,
+    "tags": [
+     "bug",
+     "team-create-bug"
+    ]
+   },
+   {
+    "title": "Emissive Map Not Displaying in Marketplace Thumbnail",
+    "views": 38,
+    "replies": 1,
+    "tags": [
+     "bug",
+     "avatar-bug"
+    ]
+   },
+   {
+    "title": "AssetService:SavePlaceAsync()  fails with \"Form data is null\" if the place exceeds ~8 MiB",
+    "views": 5,
+    "replies": 0,
+    "tags": [
+     "bug",
+     "open-cloud-bug"
+    ]
+   },
+   {
     "title": "Major Chat Features Missing??",
-    "views": 214,
+    "views": 227,
     "replies": 1,
     "tags": [
      "bug",
@@ -4921,7 +5002,7 @@
    },
    {
     "title": "SurfaceAppearance AlphaMode.Transparency renders in bands on opaque MeshParts",
-    "views": 160,
+    "views": 166,
     "replies": 6,
     "tags": [
      "bug",
@@ -4930,7 +5011,7 @@
    },
    {
     "title": "New OpenCloud APIs for Analytics, Events, Experiments, and Thumbnail Personalization",
-    "views": 3906,
+    "views": 3910,
     "replies": 6,
     "tags": [
      "featured",
@@ -4939,14 +5020,8 @@
     ]
    },
    {
-    "title": "Please make game video uploads less painful",
-    "views": 51,
-    "replies": 1,
-    "tags": []
-   },
-   {
     "title": "Report screenshots are taken after GuiService.MenuOpened is triggered",
-    "views": 63,
+    "views": 68,
     "replies": 1,
     "tags": [
      "bug",
@@ -4955,7 +5030,7 @@
    },
    {
     "title": "Voice Chat randomly disconnecting",
-    "views": 444,
+    "views": 446,
     "replies": 1,
     "tags": [
      "bug",
@@ -4963,130 +5038,9 @@
     ]
    },
    {
-    "title": "PSA Roblox Security 101: Scams, Free Models, Phishing, and More",
-    "views": 6,
-    "replies": 0,
-    "tags": [
-     "help",
-     "security",
-     "backdoor",
-     "anti-backdoor",
-     "protection"
-    ]
-   },
-   {
     "title": "Corruption Like Effect, tiles",
-    "views": 70,
+    "views": 76,
     "replies": 3,
-    "tags": [
-     "scripting"
-    ]
-   },
-   {
-    "title": "Account terminated on 7/29 for Terrorism/Extremism citing a private asset workspace. No asset identified, 0 catalog items affected",
-    "views": 658,
-    "replies": 12,
-    "tags": [
-     "bug",
-     "other-bug"
-    ]
-   },
-   {
-    "title": "[Opt-in Phase] Introducing Clipping Support for Rotated Elements & Path2D",
-    "views": 5706,
-    "replies": 28,
-    "tags": [
-     "studio",
-     "engine",
-     "topic-4737864"
-    ]
-   },
-   {
-    "title": "(looking for dev team or dev) $80+",
-    "views": 8,
-    "replies": 0,
-    "tags": []
-   },
-   {
-    "title": "Colored folders!",
-    "views": 7647,
-    "replies": 29,
-    "tags": [
-     "studio",
-     "color",
-     "explorer",
-     "folder"
-    ]
-   },
-   {
-    "title": "Strafing animations don't replicate (Server Authority)",
-    "views": 4,
-    "replies": 0,
-    "tags": [
-     "bug",
-     "other-bug",
-     "server-authority"
-    ]
-   },
-   {
-    "title": "Community rank with edit access fights with collaborator (create.roblox.com group rank)",
-    "views": 34,
-    "replies": 0,
-    "tags": [
-     "bug",
-     "place-saving-and-publishing-bug"
-    ]
-   },
-   {
-    "title": "Unioning Part Resulting it Dislining or misplaceing",
-    "views": 75,
-    "replies": 2,
-    "tags": [
-     "bug",
-     "building-bug"
-    ]
-   },
-   {
-    "title": "Vague Automated Ban (Reason: Other) with No Evidence Provided & Appeal Button Bug",
-    "views": 365,
-    "replies": 13,
-    "tags": [
-     "bug",
-     "support",
-     "ban",
-     "banned",
-     "devrel"
-    ]
-   },
-   {
-    "title": "[PAID 80+ USD!] [Discombobulated Studios - Explosive Spleef : REVERB] We are hiring!",
-    "views": 12,
-    "replies": 0,
-    "tags": []
-   },
-   {
-    "title": "[Paid] Zenith Anti-Cheat — Detects Xeno, Delta & getcustomasset Injection | ~1.2% CPU",
-    "views": 18,
-    "replies": 0,
-    "tags": [
-     "scripting",
-     "anti-exploit",
-     "paid"
-    ]
-   },
-   {
-    "title": "Orange bar top of every script",
-    "views": 200,
-    "replies": 4,
-    "tags": [
-     "bug",
-     "ui-editing-bug"
-    ]
-   },
-   {
-    "title": "How should I disable all player functionality and enable it again?",
-    "views": 59,
-    "replies": 0,
     "tags": [
      "scripting"
     ]
