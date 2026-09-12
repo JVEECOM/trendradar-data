@@ -1,9 +1,9 @@
 {
- "date": "2026-08-15",
+ "date": "2026-09-12",
  "run": {
-  "slot": "22:30",
-  "chosen_slot": "22:30",
-  "weight": "normal",
+  "slot": "19:07",
+  "chosen_slot": "21:07",
+  "weight": "light",
   "forced": false
  },
  "source_status": {
@@ -18,50 +18,50 @@
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 35,
-   "duration_ms": 660
+   "items": 30,
+   "duration_ms": 371
   },
   "google_trending_now": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 30,
-   "duration_ms": 714
+   "duration_ms": 1677
   },
   "youtube_trending": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 70,
-   "duration_ms": 200
+   "items": 39,
+   "duration_ms": 251
   },
   "urban_dictionary": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 25,
-   "duration_ms": 758
+   "duration_ms": 1283
   },
   "roblox_charts": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 12,
-   "duration_ms": 11950
+   "items": 10,
+   "duration_ms": 9065
   },
   "roblox_catalog": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 32,
-   "duration_ms": 35302
+   "items": 31,
+   "duration_ms": 18613
   },
   "roblox_devforum": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 60,
-   "duration_ms": 2921
+   "duration_ms": 3023
   },
   "rolimons_games": {
    "ok": true,
@@ -74,36 +74,36 @@
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 70,
-   "duration_ms": 44
+   "items": 40,
+   "duration_ms": 109
   },
   "wikipedia_series": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
-   "items": 12,
-   "duration_ms": 5922
+   "items": 21,
+   "duration_ms": 10333
   },
   "gdelt": {
-   "ok": true,
+   "ok": false,
    "error": null,
    "skipped_reason": null,
-   "items": 3,
-   "duration_ms": 107495
+   "items": 10,
+   "duration_ms": 459441
   },
   "google_trends_series": {
    "ok": true,
    "error": null,
    "skipped_reason": null,
    "items": 20,
-   "duration_ms": 34458
+   "duration_ms": 35463
   },
   "tiktok_creative_center": {
    "ok": false,
    "error": "TikTok gaf geen bruikbare data",
    "skipped_reason": null,
-   "items": 4,
-   "duration_ms": 44115
+   "items": 1,
+   "duration_ms": 12537
   }
  },
  "source_errors": {
@@ -112,28 +112,27 @@
     "kind": "variant_error",
     "variant": "accessoires_meest_verkocht_week",
     "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=11&SortType=2&SortAggregation=3&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
-   },
-   {
-    "kind": "variant_error",
-    "variant": "alles_meest_favoriet_dag",
-    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=1&SortType=1&SortAggregation=1&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
    }
   ],
-  "tiktok_creative_center": [
+  "gdelt": [
    {
-    "kind": "endpoint_error",
-    "endpoint": "songs",
-    "country": "US",
-    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=7&page=1&limit=30&country_code=US"
+    "term": "braxton berrios",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22braxton+berrios%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
    },
    {
-    "kind": "endpoint_error",
-    "endpoint": "songs",
-    "country": "GB",
-    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=7&page=1&limit=50&country_code=GB"
+    "term": "dolly parton",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22dolly+parton%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "elizabeth holmes",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22elizabeth+holmes%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "games",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22games%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
    }
   ]
  },
- "watchlist_size": 52,
- "history_terms": 52
+ "watchlist_size": 60,
+ "history_terms": 263
 }
