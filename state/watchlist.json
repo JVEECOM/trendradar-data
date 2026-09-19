@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-09-18T21:40:53Z",
+ "updated_at": "2026-09-19T20:36:54Z",
  "terms": [
   {
    "term": "roblox",
@@ -48,11 +48,12 @@
     25.9,
     25.0,
     37.5,
-    37.6
+    37.6,
+    39.0
    ],
    "notes": "Dient als ijkpunt: als deze reeks raar doet, klopt er iets niet aan de meting zelf.",
    "status_reason": "ongewijzigd",
-   "last_score": 37.6,
+   "last_score": 39.0,
    "wikipedia_checked": true
   },
   {
@@ -101,6 +102,7 @@
     39.7,
     34.2,
     39.7,
+    34.2,
     34.2,
     34.2,
     34.2,
@@ -168,51 +170,12 @@
     28.9,
     28.4,
     28.4,
-    28.4
+    28.4,
+    33.4
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 28)",
-   "last_score": 28.4,
-   "wikipedia_checked": true
-  },
-  {
-   "term": "braxton berrios",
-   "label": "braxton berrios",
-   "track": "longterm",
-   "status": "misschien",
-   "first_seen": "2026-09-04",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    88.0,
-    84.4,
-    84.4,
-    76.5,
-    76.5,
-    43.6,
-    44.0,
-    31.4,
-    31.8,
-    32.0,
-    17.5,
-    17.6,
-    32.4,
-    32.0,
-    15.4,
-    15.4,
-    34.8,
-    33.9,
-    9.1,
-    9.1,
-    7.8,
-    7.4
-   ],
-   "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 7)",
-   "last_score": 7.4,
-   "wikipedia_article": "Braxton_Berrios",
+   "status_reason": "nog onder de drempel (nu 33)",
+   "last_score": 33.4,
    "wikipedia_checked": true
   },
   {
@@ -241,11 +204,12 @@
     7.9,
     7.9,
     22.3,
-    22.3
+    22.3,
+    45.4
    ],
    "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 22)",
-   "last_score": 22.3,
+   "status_reason": "nog onder de drempel (nu 45)",
+   "last_score": 45.4,
    "wikipedia_article": "I_Can_Do_Bad_All_by_Myself_(film)",
    "wikipedia_checked": true
   },
@@ -271,41 +235,13 @@
     21.2,
     20.2,
     10.7,
-    11.1
+    11.1,
+    36.6
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 11)",
-   "last_score": 11.1,
+   "status_reason": "nog onder de drempel (nu 37)",
+   "last_score": 36.6,
    "wikipedia_article": "Duolingo",
-   "wikipedia_checked": true
-  },
-  {
-   "term": "fly brain",
-   "label": "Fly Brain Memes",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-09-10",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    53.5,
-    53.5,
-    54.4,
-    55.1,
-    38.4,
-    38.5,
-    32.2,
-    31.9,
-    15.0,
-    14.2,
-    10.4,
-    11.3
-   ],
-   "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 11)",
-   "last_score": 11.3,
-   "wikipedia_article": "Virtual_Fly_Brain",
    "wikipedia_checked": true
   },
   {
@@ -328,11 +264,12 @@
     5.9,
     6.8,
     25.7,
-    25.4
+    25.4,
+    41.3
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 25)",
-   "last_score": 25.4,
+   "status_reason": "nog onder de drempel (nu 41)",
+   "last_score": 41.3,
    "wikipedia_article": "Adopt_Me!",
    "wikipedia_checked": true
   },
@@ -355,11 +292,12 @@
     13.3,
     13.6,
     30.0,
-    30.0
+    30.0,
+    12.1
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 30)",
-   "last_score": 30.0,
+   "status_reason": "nog onder de drempel (nu 12)",
+   "last_score": 12.1,
    "wikipedia_article": "Kylian_Mbappé",
    "wikipedia_checked": true
   },
@@ -375,6 +313,7 @@
     39.4,
     39.4,
     39.4,
+    32.8,
     32.8,
     32.8,
     32.8,
@@ -404,11 +343,12 @@
     9.4,
     12.9,
     3.0,
-    3.2
+    3.2,
+    27.6
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 3)",
-   "last_score": 3.2,
+   "status_reason": "nog onder de drempel (nu 28)",
+   "last_score": 27.6,
    "wikipedia_checked": true
   },
   {
@@ -427,11 +367,12 @@
     19.2,
     20.0,
     19.7,
-    19.7
+    19.7,
+    34.2
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 20)",
-   "last_score": 19.7,
+   "status_reason": "nog onder de drempel (nu 34)",
+   "last_score": 34.2,
    "wikipedia_checked": true
   },
   {
@@ -448,11 +389,12 @@
     35.5,
     34.8,
     26.5,
-    28.8
+    28.8,
+    30.4
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 29)",
-   "last_score": 28.8,
+   "status_reason": "nog onder de drempel (nu 30)",
+   "last_score": 30.4,
    "wikipedia_article": "Space",
    "wikipedia_checked": true
   },
@@ -470,11 +412,12 @@
     49.2,
     35.1,
     47.9,
-    47.9
+    47.9,
+    32.7
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 48)",
-   "last_score": 47.9,
+   "status_reason": "nog onder de drempel (nu 33)",
+   "last_score": 32.7,
    "wikipedia_article": "2026_Chicago_White_Sox_season",
    "wikipedia_checked": true
   },
@@ -491,11 +434,12 @@
     45.7,
     5.3,
     9.1,
-    8.0
+    8.0,
+    12.0
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 8)",
-   "last_score": 8.0,
+   "status_reason": "nog onder de drempel (nu 12)",
+   "last_score": 12.0,
    "wikipedia_checked": true
   },
   {
@@ -511,11 +455,12 @@
     4.0,
     7.4,
     10.3,
-    8.5
+    8.5,
+    25.4
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 8)",
-   "last_score": 8.5,
+   "status_reason": "nog onder de drempel (nu 25)",
+   "last_score": 25.4,
    "wikipedia_checked": true
   },
   {
@@ -530,11 +475,12 @@
     16.1,
     16.1,
     59.4,
-    49.7
+    49.7,
+    51.5
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 50)",
-   "last_score": 49.7,
+   "status_reason": "nog onder de drempel (nu 52)",
+   "last_score": 51.5,
    "wikipedia_article": "United_States_Army_Special_Operations_Command",
    "wikipedia_checked": true
   },
@@ -542,7 +488,7 @@
    "term": "blockspin",
    "label": "BlockSpin 🔪",
    "track": "roblox",
-   "status": "misschien",
+   "status": "bevestigd",
    "first_seen": "2026-09-15",
    "score_history": [
     0.0,
@@ -550,11 +496,12 @@
     0.0,
     0.0,
     88.0,
-    58.9
+    58.9,
+    47.6
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 59)",
-   "last_score": 58.9,
+   "status_reason": "2x boven 55 in laatste 3 dagen, 2 bronnen stijgen",
+   "last_score": 47.6,
    "wikipedia_checked": true
   },
   {
@@ -568,11 +515,12 @@
     7.3,
     19.1,
     21.7,
-    20.9
+    20.9,
+    42.7
    ],
    "notes": "automatisch opgepikt uit roblox_top_games",
-   "status_reason": "nog onder de drempel (nu 21)",
-   "last_score": 20.9,
+   "status_reason": "nog onder de drempel (nu 43)",
+   "last_score": 42.7,
    "wikipedia_checked": true
   },
   {
@@ -586,11 +534,12 @@
     0.0,
     72.3,
     11.9,
-    11.9
+    11.9,
+    9.8
    ],
    "notes": "automatisch opgepikt uit wikipedia_top",
-   "status_reason": "nog onder de drempel (nu 12)",
-   "last_score": 11.9,
+   "status_reason": "nog onder de drempel (nu 10)",
+   "last_score": 9.8,
    "wikipedia_article": "John_Tuggle",
    "wikipedia_checked": true
   },
@@ -605,46 +554,13 @@
     0.0,
     0.0,
     70.6,
-    70.6
+    70.6,
+    65.9
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 71)",
-   "last_score": 70.6,
+   "status_reason": "nog onder de drempel (nu 66)",
+   "last_score": 65.9,
    "wikipedia_article": "Red_Bull",
-   "wikipedia_checked": true
-  },
-  {
-   "term": "gta speed",
-   "label": "GTA Speed",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0,
-   "wikipedia_checked": true
-  },
-  {
-   "term": "bitcoin headphones",
-   "label": "[⌛]bitcoin headphones",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0,
    "wikipedia_checked": true
   },
   {
@@ -657,46 +573,13 @@
     0.0,
     0.0,
     0.0,
-    10.9
+    10.9,
+    22.0
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 11)",
-   "last_score": 10.9,
+   "status_reason": "nog onder de drempel (nu 22)",
+   "last_score": 22.0,
    "wikipedia_article": "Irán_Castillo",
-   "wikipedia_checked": true
-  },
-  {
-   "term": "jack schlossberg cheating allegations and hoax",
-   "label": "Jack Schlossberg Cheating Allegations and Hoax",
-   "track": "hype",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "notes": "automatisch opgepikt uit kym_new",
-   "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0,
-   "wikipedia_checked": true
-  },
-  {
-   "term": "doors lotus on your back",
-   "label": "DOORS - Lotus On Your Back",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0,
    "wikipedia_checked": true
   },
   {
@@ -709,65 +592,13 @@
     0.0,
     0.0,
     0.0,
-    20.1
+    20.1,
+    8.8
    ],
    "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 20)",
-   "last_score": 20.1,
+   "status_reason": "nog onder de drempel (nu 9)",
+   "last_score": 8.8,
    "wikipedia_article": "Cavalier_King_Charles_Spaniel",
-   "wikipedia_checked": true
-  },
-  {
-   "term": "doors the groundskeeper s scythe",
-   "label": "DOORS - The Groundskeeper's Scythe",
-   "track": "roblox",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-   ],
-   "notes": "automatisch opgepikt uit roblox_catalog",
-   "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0,
-   "wikipedia_checked": true
-  },
-  {
-   "term": "2026 swedish general election",
-   "label": "2026_Swedish_general_election",
-   "track": "longterm",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    19.2
-   ],
-   "notes": "automatisch opgepikt uit wikipedia_top",
-   "status_reason": "nog onder de drempel (nu 19)",
-   "last_score": 19.2,
-   "wikipedia_article": "2026_Swedish_general_election",
-   "wikipedia_checked": true
-  },
-  {
-   "term": "nebraska volleyball schedule",
-   "label": "nebraska volleyball schedule",
-   "track": "longterm",
-   "status": "misschien",
-   "first_seen": "2026-09-16",
-   "score_history": [
-    0.0,
-    0.0,
-    0.0,
-    10.1
-   ],
-   "notes": "automatisch opgepikt uit google_trending",
-   "status_reason": "nog onder de drempel (nu 10)",
-   "last_score": 10.1,
-   "wikipedia_article": "Nebraska_Cornhuskers_women's_volleyball",
    "wikipedia_checked": true
   },
   {
@@ -779,11 +610,12 @@
    "score_history": [
     1.9,
     3.2,
-    10.4
+    10.4,
+    24.2
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 10)",
-   "last_score": 10.4,
+   "status_reason": "nog onder de drempel (nu 24)",
+   "last_score": 24.2,
    "wikipedia_article": "Marvel_Rivals",
    "wikipedia_checked": true
   },
@@ -796,11 +628,12 @@
    "score_history": [
     1.1,
     1.5,
-    1.4
+    1.4,
+    51.5
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 1)",
-   "last_score": 1.4,
+   "status_reason": "nog onder de drempel (nu 52)",
+   "last_score": 51.5,
    "wikipedia_checked": true
   },
   {
@@ -812,11 +645,14 @@
    "score_history": [
     4.6,
     6.3,
-    6.0
+    6.0,
+    29.5
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 6)",
-   "last_score": 6.0
+   "status_reason": "nog onder de drempel (nu 30)",
+   "last_score": 29.5,
+   "wikipedia_article": "Dress_to_Impress",
+   "wikipedia_checked": true
   },
   {
    "term": "catalog avatar creator",
@@ -827,11 +663,13 @@
    "score_history": [
     1.5,
     1.8,
-    1.8
+    1.8,
+    42.7
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 2)",
-   "last_score": 1.8
+   "status_reason": "nog onder de drempel (nu 43)",
+   "last_score": 42.7,
+   "wikipedia_checked": true
   },
   {
    "term": "arcade pet simulator 99",
@@ -842,11 +680,13 @@
    "score_history": [
     6.9,
     6.9,
+    6.9,
     6.9
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
    "status_reason": "nog onder de drempel (nu 7)",
-   "last_score": 6.9
+   "last_score": 6.9,
+   "wikipedia_checked": true
   },
   {
    "term": "week 3 forsaken",
@@ -857,11 +697,13 @@
    "score_history": [
     2.8,
     2.8,
-    2.8
+    2.8,
+    10.5
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 3)",
-   "last_score": 2.8
+   "status_reason": "nog onder de drempel (nu 10)",
+   "last_score": 10.5,
+   "wikipedia_checked": true
   },
   {
    "term": "the hunt roblox 20",
@@ -871,11 +713,13 @@
    "first_seen": "2026-09-17",
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
    "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0
+   "last_score": 0.0,
+   "wikipedia_checked": true
   },
   {
    "term": "work at a pizza place",
@@ -885,11 +729,13 @@
    "first_seen": "2026-09-17",
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
    "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0
+   "last_score": 0.0,
+   "wikipedia_checked": true
   },
   {
    "term": "sky assassin jujutsu shenanigans",
@@ -899,11 +745,13 @@
    "first_seen": "2026-09-17",
    "score_history": [
     1.3,
-    1.2
+    1.2,
+    24.1
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 1)",
-   "last_score": 1.2
+   "status_reason": "nog onder de drempel (nu 24)",
+   "last_score": 24.1,
+   "wikipedia_checked": true
   },
   {
    "term": "ride a pet",
@@ -913,11 +761,13 @@
    "first_seen": "2026-09-17",
    "score_history": [
     0.0,
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
    "status_reason": "nog onder de drempel (nu 0)",
-   "last_score": 0.0
+   "last_score": 0.0,
+   "wikipedia_checked": true
   },
   {
    "term": "lifetogether rp",
@@ -927,11 +777,12 @@
    "first_seen": "2026-09-17",
    "score_history": [
     2.9,
-    2.9
+    2.9,
+    10.9
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 3)",
-   "last_score": 2.9
+   "status_reason": "nog onder de drempel (nu 11)",
+   "last_score": 10.9
   },
   {
    "term": "search for the needle",
@@ -941,11 +792,12 @@
    "first_seen": "2026-09-17",
    "score_history": [
     1.9,
-    1.8
+    1.8,
+    6.7
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 2)",
-   "last_score": 1.8
+   "status_reason": "nog onder de drempel (nu 7)",
+   "last_score": 6.7
   },
   {
    "term": "cure violence district",
@@ -955,11 +807,12 @@
    "first_seen": "2026-09-17",
    "score_history": [
     7.0,
-    5.2
+    5.2,
+    17.9
    ],
    "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top",
-   "status_reason": "nog onder de drempel (nu 5)",
-   "last_score": 5.2
+   "status_reason": "nog onder de drempel (nu 18)",
+   "last_score": 17.9
   },
   {
    "term": "celebrity look alike",
@@ -968,6 +821,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit kym_new",
@@ -981,6 +835,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit roblox_catalog",
@@ -994,6 +849,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit wikipedia_top",
@@ -1007,6 +863,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit google_trending",
@@ -1020,6 +877,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit kym_new",
@@ -1033,6 +891,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit roblox_catalog",
@@ -1046,6 +905,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit wikipedia_top",
@@ -1059,6 +919,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit google_trending",
@@ -1072,6 +933,7 @@
    "status": "misschien",
    "first_seen": "2026-09-18",
    "score_history": [
+    0.0,
     0.0
    ],
    "notes": "automatisch opgepikt uit kym_new",
@@ -1084,8 +946,12 @@
    "track": "longterm",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "brookhaven rp",
@@ -1093,8 +959,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_top_games"
+   "score_history": [
+    41.2
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 41)",
+   "last_score": 41.2
   },
   {
    "term": "louder than life evacuation",
@@ -1102,8 +972,12 @@
    "track": "longterm",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "murder mystery 2",
@@ -1111,8 +985,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_top_games"
+   "score_history": [
+    9.1
+   ],
+   "notes": "automatisch opgepikt uit roblox_top_games",
+   "status_reason": "nog onder de drempel (nu 9)",
+   "last_score": 9.1
   },
   {
    "term": "rainbow fun fedora",
@@ -1120,8 +998,12 @@
    "track": "roblox",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit roblox_catalog"
+   "score_history": [
+    18.6
+   ],
+   "notes": "automatisch opgepikt uit roblox_catalog",
+   "status_reason": "nog onder de drempel (nu 19)",
+   "last_score": 18.6
   },
   {
    "term": "lizzie borden",
@@ -1129,8 +1011,12 @@
    "track": "longterm",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit wikipedia_top"
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit wikipedia_top",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "best of the best",
@@ -1138,8 +1024,12 @@
    "track": "longterm",
    "status": "misschien",
    "first_seen": "2026-09-18",
-   "score_history": [],
-   "notes": "automatisch opgepikt uit google_trending"
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit google_trending",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
   },
   {
    "term": "if you log out it s still 2007",
@@ -1147,8 +1037,93 @@
    "track": "hype",
    "status": "misschien",
    "first_seen": "2026-09-18",
+   "score_history": [
+    0.0
+   ],
+   "notes": "automatisch opgepikt uit kym_new",
+   "status_reason": "nog onder de drempel (nu 0)",
+   "last_score": 0.0
+  },
+  {
+   "term": "steal a brainrot",
+   "label": "Steal a Brainrot",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
    "score_history": [],
-   "notes": "automatisch opgepikt uit kym_new"
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "blox fruits",
+   "label": "[🧲] Blox Fruits",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "x500 1 speed keyboard escape candy chocolate",
+   "label": "[X500]+1 Speed Keyboard Escape | Candy & Chocolate",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "slayers 2",
+   "label": "Slayers 2",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "x2 99 nights in the forest",
+   "label": "[💎x2] 99 Nights in the Forest 🔦",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "grow a garden",
+   "label": "[🍂] Grow a Garden 🌶️",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "fisch mariana",
+   "label": "Fisch 🐟 [MARIANA]",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "5 hrs fish it",
+   "label": "[5 HRS] Fish It! 🐟",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
+  },
+  {
+   "term": "update animal hospital anomaly",
+   "label": "[UPDATE] Animal Hospital (Anomaly) 🧪",
+   "track": "roblox",
+   "status": "misschien",
+   "first_seen": "2026-09-19",
+   "score_history": [],
+   "notes": "automatisch opgepikt uit roblox_top_games, rolimons_top"
   }
  ]
 }
