@@ -1,0 +1,180 @@
+{
+ "date": "2026-09-22",
+ "run": {
+  "slot": "21:07",
+  "chosen_slot": "21:07",
+  "weight": "heavy",
+  "forced": false
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 38,
+   "duration_ms": 396
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 706
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 150,
+   "duration_ms": 386
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 1210
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 9729
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 61,
+   "duration_ms": 30810
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 90,
+   "duration_ms": 4856
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (draait om de dag)",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "wikipedia_top": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 100,
+   "duration_ms": 150
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 29,
+   "duration_ms": 14055
+  },
+  "gdelt": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 358106
+  },
+  "google_trends_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 12,
+   "duration_ms": 35224
+  },
+  "tiktok_creative_center": {
+   "ok": false,
+   "error": "TikTok gaf geen bruikbare data",
+   "skipped_reason": null,
+   "items": 6,
+   "duration_ms": 64915
+  }
+ },
+ "source_errors": {
+  "roblox_catalog": [
+   {
+    "kind": "variant_error",
+    "variant": "accessoires_meest_verkocht_week",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=11&SortType=2&SortAggregation=3&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "wil traval",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22wil+traval%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "duolingo",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22duolingo%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "sarah huckabee sanders",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22sarah+huckabee+sanders%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "irán",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+   }
+  ],
+  "google_trends_series": [
+   {
+    "batch": [
+     "roblox",
+     "piñata maze pet simulator 99",
+     "ink game",
+     "i can t do nathan",
+     "duolingo"
+    ],
+    "error": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222026-06-22+2026-09-22%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22roblox%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22pi%5Cu00f1ata+maze+pet+simulator+99%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22ink+game%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22i+can+t+do+nathan%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22duolingo%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=AB6YKJMAAAAAarRjrqwOpRlsz6XxaAmYc84YNcZuci3n&tz=0 (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "batch": [
+     "x10 1 speed keyboard escape candy chocolate",
+     "duels murderers vs sheriffs",
+     "update 1 tongue escape",
+     "space",
+     "white sox vs guardians"
+    ],
+    "error": "HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222026-06-22+2026-09-22%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22x10+1+speed+keyboard+escape+candy+chocolate%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22duels+murderers+vs+sheriffs%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22update+1+tongue+escape%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22space%22%7D%5D%7D%7D%2C+%7B%22geo%22%3A+%7B%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22white+sox+vs+guardians%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=AB6YKJMAAAAAarRjt-OKYTdQZe-vuFbLdI2nZty8umv9&tz=0 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "tiktok_creative_center": [
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "US",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=7&page=1&limit=50&country_code=US"
+   },
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "GB",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=7&page=1&limit=30&country_code=GB"
+   },
+   {
+    "kind": "endpoint_error",
+    "endpoint": "songs",
+    "country": "NL",
+    "error": "404 Client Error: Not Found for url: https://ads.tiktok.com/creative_radar_api/v1/popular_trend/song/list?period=30&page=1&limit=50&country_code=NL"
+   }
+  ]
+ },
+ "watchlist_size": 60,
+ "history_terms": 360
+}
