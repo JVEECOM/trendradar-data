@@ -1,0 +1,142 @@
+{
+ "date": "2026-09-29",
+ "run": {
+  "slot": "19:07",
+  "chosen_slot": "19:07",
+  "weight": "heavy",
+  "forced": false
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 38,
+   "duration_ms": 458
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 770
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 150,
+   "duration_ms": 351
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 1210
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 9566
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 61,
+   "duration_ms": 30349
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 90,
+   "duration_ms": 4518
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 400,
+   "duration_ms": 192
+  },
+  "wikipedia_top": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 100,
+   "duration_ms": 140
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 10099
+  },
+  "gdelt": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 398382
+  },
+  "google_trends_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 20,
+   "duration_ms": 35045
+  },
+  "tiktok_creative_center": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (5 van 7 dagen, wisselend patroon)",
+   "items": 0,
+   "duration_ms": 0
+  }
+ },
+ "source_errors": {
+  "roblox_catalog": [
+   {
+    "kind": "variant_error",
+    "variant": "accessoires_meest_verkocht_week",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=11&SortType=2&SortAggregation=3&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "aileen wuornos",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22aileen+wuornos%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "roblox",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22roblox%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "the paradise 2026 indian film",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22the+paradise+2026+indian+film%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "chad gilbert",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22chad+gilbert%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "hayley williams",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22hayley+williams%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ]
+ },
+ "watchlist_size": 60,
+ "history_terms": 393
+}
