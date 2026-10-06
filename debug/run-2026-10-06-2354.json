@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-06",
+ "run": {
+  "slot": "20:07",
+  "chosen_slot": "20:07",
+  "weight": "heavy",
+  "forced": false
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 36,
+   "duration_ms": 298
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 979
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 149,
+   "duration_ms": 401
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 1943
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 12,
+   "duration_ms": 13667
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 61,
+   "duration_ms": 36420
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 90,
+   "duration_ms": 4124
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (draait om de dag)",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "wikipedia_top": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 100,
+   "duration_ms": 253
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 18,
+   "duration_ms": 9726
+  },
+  "gdelt": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": null,
+   "items": 9,
+   "duration_ms": 433277
+  },
+  "google_trends_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 20,
+   "duration_ms": 34205
+  },
+  "tiktok_creative_center": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (5 van 7 dagen, wisselend patroon)",
+   "items": 0,
+   "duration_ms": 0
+  }
+ },
+ "source_errors": {
+  "roblox_catalog": [
+   {
+    "kind": "variant_error",
+    "variant": "alles_meest_favoriet_dag",
+    "error": "HTTPSConnectionPool(host='catalog.roblox.com', port=443): Max retries exceeded with url: /v1/search/items/details?Category=1&SortType=1&SortAggregation=1&Limit=30 (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ],
+  "gdelt": [
+   {
+    "term": "roblox",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22roblox%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "2026 asian games medal table",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%222026+asian+games+medal+table%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "christa pike",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22christa+pike%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "erin andrews",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22erin+andrews%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "dolly parton estate bryan seaver lawsuit",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22dolly+parton+estate+bryan+seaver+lawsuit%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ]
+ },
+ "watchlist_size": 60,
+ "history_terms": 431
+}
