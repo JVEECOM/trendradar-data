@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-18",
+ "run": {
+  "slot": "18:07",
+  "chosen_slot": "19:07",
+  "weight": "light",
+  "forced": false
+ },
+ "source_status": {
+  "reddit": {
+   "ok": false,
+   "error": null,
+   "skipped_reason": "REDDIT_CLIENT_ID/SECRET niet ingesteld",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "know_your_meme": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 271
+  },
+  "google_trending_now": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 30,
+   "duration_ms": 526
+  },
+  "youtube_trending": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 40,
+   "duration_ms": 231
+  },
+  "urban_dictionary": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 25,
+   "duration_ms": 1893
+  },
+  "roblox_charts": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 10217
+  },
+  "roblox_catalog": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 60,
+   "duration_ms": 3991
+  },
+  "roblox_devforum": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 60,
+   "duration_ms": 3051
+  },
+  "rolimons_games": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (draait om de dag)",
+   "items": 0,
+   "duration_ms": 0
+  },
+  "wikipedia_top": {
+   "ok": false,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/2026/10/16",
+   "skipped_reason": null,
+   "items": 0,
+   "duration_ms": 160
+  },
+  "wikipedia_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 16,
+   "duration_ms": 8144
+  },
+  "gdelt": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 10,
+   "duration_ms": 428094
+  },
+  "google_trends_series": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": null,
+   "items": 20,
+   "duration_ms": 35591
+  },
+  "tiktok_creative_center": {
+   "ok": true,
+   "error": null,
+   "skipped_reason": "bewust overgeslagen (5 van 7 dagen, wisselend patroon)",
+   "items": 0,
+   "duration_ms": 0
+  }
+ },
+ "source_errors": {
+  "gdelt": [
+   {
+    "term": "7 days cat sitting",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%227+days+cat+sitting%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "new units command an army",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22new+units+command+an+army%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "mathematics",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22mathematics%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "rj mitte",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22rj+mitte%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "robin givens",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22robin+givens%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   },
+   {
+    "term": "katie zacharia",
+    "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%22katie+zacharia%22&mode=timelinevol&format=json&timespan=2months (Caused by ResponseError('too many 429 error responses'))"
+   }
+  ]
+ },
+ "watchlist_size": 60,
+ "history_terms": 504
+}
